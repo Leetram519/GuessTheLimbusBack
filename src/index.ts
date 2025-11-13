@@ -143,13 +143,13 @@ app.post("/api/verify-guess", function (req: Express.Request, res: Express.Respo
 	const comparison: GuessComparison = {
 		sinner: guessedId.sinner === target.sinner ? "YES" : "NO",
 		rarity: guessedId.rarity === target.rarity ? "YES" : "NO",
-		preciseKeywords: target.preciseKeywords.map(keyword => ({
+		preciseKeywords: guessedId.preciseKeywords.map(keyword => ({
 			keyword,
-			match: guessedId.preciseKeywords.includes(keyword) ? "YES" : "NO"
+			match: target.preciseKeywords.includes(keyword) ? "YES" : "NO"
 		})),
-		statusKeywords: target.statusKeywords.map(keyword => ({
+		statusKeywords: guessedId.statusKeywords.map(keyword => ({
 			keyword,
-			match: guessedId.statusKeywords.includes(keyword) ? "YES" : "NO"
+			match: target.statusKeywords.includes(keyword) ? "YES" : "NO"
 		})),
 		season: guessedId.season === target.season ? "YES" : "NO",
 		passiveCount: 

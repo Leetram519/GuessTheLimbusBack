@@ -1,4 +1,4 @@
-[
+export var IDs = [
   {
     "id": 1,
     "name": "Liu Assoc. South Section 6 Gregor",
@@ -503,9 +503,9 @@
           },
           {
             "variationNumber": 2,
-            "sinAffinity": "Lust",
+            "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 20
+            "finalPower": 28
           }
         ]
       }

@@ -3,6 +3,7 @@ import cors from "cors";
 import { readFileSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
+import { IDs } from "./data/ids.js";
 
 // ***************************************************
 // * Setup paths for ES modules
@@ -67,10 +68,7 @@ interface GuessComparison {
 let idsData: LimbusId[] = [];
 
 try {
-	const dataPath = join(__dirname, "data", "ids.json");
-	const jsonData = readFileSync(dataPath, "utf-8");
-	idsData = JSON.parse(jsonData);
-	console.log(`Loaded ${idsData.length} IDs from database`);
+	idsData = IDs;
 } catch (error) {
 	console.error("Error loading IDs data:", error);
 	idsData = [];
@@ -104,18 +102,28 @@ app.get("/api/ids", function (req: Express.Request, res: Express.Response) {
 	res.json(idsData);
 });
 
-// Get today's target ID (based on date)
+// Get today's target ID (based on date in Europe/Paris timezone)
 app.get("/api/daily-id", function (req: Express.Request, res: Express.Response) {
 	console.log(`${new Date().toISOString()}: GET /api/daily-id`);
 	
-	const today = new Date();
-	const dayOfYear = Math.floor((today.getTime() - new Date(today.getFullYear(), 0, 0).getTime()) / 86400000);
+	// Get current date in Paris timezone
+	const parisDate = new Date().toLocaleString('en-US', { timeZone: 'Europe/Paris' });
+	const today = new Date(parisDate);
+	const startOfYear = new Date(today.getFullYear(), 0, 0);
+	const dayOfYear = Math.floor((today.getTime() - startOfYear.getTime()) / 86400000);
 	const targetIndex = dayOfYear % idsData.length;
 	const targetId = idsData[targetIndex];
 	
+	// Calculate time until next reset in Paris timezone
+	const tomorrowParis = new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1);
+	const nowParis = new Date();
+	const msUntilReset = tomorrowParis.getTime() - nowParis.getTime();
+	
 	res.json({
 		id: targetId.id,
-		date: today.toISOString().split("T")[0]
+		date: `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`,
+		timezone: 'Europe/Paris',
+		msUntilReset: msUntilReset
 	});
 });
 

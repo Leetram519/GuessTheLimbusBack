@@ -109,9 +109,21 @@ app.get("/api/daily-id", function (req: Express.Request, res: Express.Response) 
 	// Get current date in Paris timezone
 	const parisDate = new Date().toLocaleString('en-US', { timeZone: 'Europe/Paris' });
 	const today = new Date(parisDate);
-	const startOfYear = new Date(today.getFullYear(), 0, 0);
-	const dayOfYear = Math.floor((today.getTime() - startOfYear.getTime()) / 86400000);
-	const targetIndex = dayOfYear % idsData.length;
+	
+	// Create a date string for consistent hashing (YYYY-MM-DD)
+	const dateString = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+	
+	// Hash-based pseudo-random selection for better distribution
+	// This ensures the same ID is selected globally while distributing IDs evenly across days
+	let hash = 0;
+	for (let i = 0; i < dateString.length; i++) {
+		const char = dateString.charCodeAt(i);
+		hash = ((hash << 5) - hash) + char;
+		hash = hash & hash; // Convert to 32bit integer
+	}
+	
+	// Convert hash to positive and map to available IDs
+	const targetIndex = Math.abs(hash) % idsData.length;
 	const targetId = idsData[targetIndex];
 	
 	// Calculate time until next reset in Paris timezone

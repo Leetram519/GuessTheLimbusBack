@@ -8564,8 +8564,8 @@ export var IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
-            "coinCount": 1,
-            "finalPower": 6
+            "coinCount": 4,
+            "finalPower": 15
           }
         ]
       },

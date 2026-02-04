@@ -2814,7 +2814,7 @@ export var IDs = [
         "variations": [
           {
             "variationNumber": 1,
-            "sinAffinity": "Gloom",
+            "sinAffinity": "Sloth",
             "coinCount": 1,
             "finalPower": 18
           }

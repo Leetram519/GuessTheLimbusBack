@@ -13,7 +13,7 @@ export var IDs = [
       "Attack Power Up",
       "Burn"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -69,7 +69,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "2e",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -126,7 +126,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "2e",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -181,7 +181,7 @@ export var IDs = [
       "Bleed",
       "Poise"
     ],
-    "season": "3",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -238,7 +238,7 @@ export var IDs = [
       "Dimensional Rift",
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -295,7 +295,7 @@ export var IDs = [
       "Nails",
       "Paralyze"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -352,7 +352,7 @@ export var IDs = [
       "Offense Level Down",
       "Plus Coin Drop"
     ],
-    "season": "3e",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -410,7 +410,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -529,7 +529,7 @@ export var IDs = [
       "Sinking",
       "Slash Fragility"
     ],
-    "season": "4",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -583,7 +583,7 @@ export var IDs = [
     "statusKeywords": [
       "Poise"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -640,7 +640,7 @@ export var IDs = [
       "Defense Power Up",
       "Haste"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -697,7 +697,7 @@ export var IDs = [
       "Tremor - Reverb",
       "Tremor Burst"
     ],
-    "season": "4e",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -757,7 +757,7 @@ export var IDs = [
       "Haste",
       "Paralyze"
     ],
-    "season": "1e",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -814,7 +814,7 @@ export var IDs = [
       "Insight",
       "Sinking"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -873,7 +873,7 @@ export var IDs = [
       "Paralyze",
       "Pierce DMG Up"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -928,7 +928,7 @@ export var IDs = [
       "Bleed",
       "Damage Down"
     ],
-    "season": "3",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -982,7 +982,7 @@ export var IDs = [
     "statusKeywords": [
       "Bleed"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1040,7 +1040,7 @@ export var IDs = [
       "Paralyze",
       "Poise"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1094,7 +1094,7 @@ export var IDs = [
     "statusKeywords": [
       "Burn"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1151,7 +1151,7 @@ export var IDs = [
       "Pierce DMG Up",
       "Pierce Power Up"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -1208,7 +1208,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "2",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1264,7 +1264,7 @@ export var IDs = [
       "Bind",
       "Poise"
     ],
-    "season": "4",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1318,7 +1318,7 @@ export var IDs = [
     "statusKeywords": [
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1375,7 +1375,7 @@ export var IDs = [
       "Rupture",
       "Slash Fragility"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1430,7 +1430,7 @@ export var IDs = [
       "K Corp Ampule",
       "Rupture"
     ],
-    "season": "2",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1488,7 +1488,7 @@ export var IDs = [
       "Nails",
       "Protection"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1601,7 +1601,7 @@ export var IDs = [
       "Offense Level Down",
       "Paralyze"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1655,7 +1655,7 @@ export var IDs = [
     "statusKeywords": [
       "Burn"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1710,7 +1710,7 @@ export var IDs = [
       "Echoes of the Manor",
       "Sinking"
     ],
-    "season": "4",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1768,7 +1768,7 @@ export var IDs = [
       "Haste",
       "Poise"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1823,7 +1823,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "4e",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1880,7 +1880,7 @@ export var IDs = [
       "Plus Coin Boost",
       "Poise"
     ],
-    "season": "3",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1935,7 +1935,7 @@ export var IDs = [
       "Bleed",
       "Paralyze"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -1990,7 +1990,7 @@ export var IDs = [
       "Pierce Fragility",
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2047,7 +2047,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "2e",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2104,7 +2104,7 @@ export var IDs = [
       "Fragile",
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2160,7 +2160,7 @@ export var IDs = [
       "Poise",
       "Protection"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2217,7 +2217,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "2",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2273,7 +2273,7 @@ export var IDs = [
       "Plus Coin Boost",
       "Sinking"
     ],
-    "season": "4",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2328,7 +2328,7 @@ export var IDs = [
       "Poise",
       "Slash DMG Up"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2384,7 +2384,7 @@ export var IDs = [
       "Fragile",
       "Poise"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2438,7 +2438,7 @@ export var IDs = [
       "Bleed",
       "Charge"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2498,7 +2498,7 @@ export var IDs = [
       "Sword of the Homeland - Penetrating",
       "Sword of the Homeland - Rending"
     ],
-    "season": "3e",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -2556,7 +2556,7 @@ export var IDs = [
       "Poise",
       "Single Combat"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2666,7 +2666,7 @@ export var IDs = [
       "Charge",
       "Sinking"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2722,7 +2722,7 @@ export var IDs = [
       "Defense Level Up",
       "Haste"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2781,7 +2781,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2836,7 +2836,7 @@ export var IDs = [
       "Fragile",
       "Sinking"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2893,7 +2893,7 @@ export var IDs = [
       "Insight",
       "Sinking"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -2951,7 +2951,7 @@ export var IDs = [
       "Sinking",
       "Tremor Burst"
     ],
-    "season": "2",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3010,7 +3010,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "3",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3065,7 +3065,7 @@ export var IDs = [
       "Sinking Deluge",
       "Tremor"
     ],
-    "season": "2",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3122,7 +3122,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3179,7 +3179,7 @@ export var IDs = [
       "Protection",
       "Sinking"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3234,7 +3234,7 @@ export var IDs = [
       "Charge Barrier",
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3291,7 +3291,7 @@ export var IDs = [
       "Red Plum Blossom",
       "Slash Fragility"
     ],
-    "season": "3e",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3351,7 +3351,7 @@ export var IDs = [
       "Rupture",
       "Weakness Analyzed"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3406,7 +3406,7 @@ export var IDs = [
       "Attack Power Up",
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3464,7 +3464,7 @@ export var IDs = [
       "Sinking",
       "Tremor"
     ],
-    "season": "2e",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3526,7 +3526,7 @@ export var IDs = [
       "Pride Power Up",
       "Protection"
     ],
-    "season": "3",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -3638,7 +3638,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "2",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3695,7 +3695,7 @@ export var IDs = [
       "Offense Level Down",
       "Paralyze"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3752,7 +3752,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "2",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3807,7 +3807,7 @@ export var IDs = [
       "Offense Level Down",
       "Rupture"
     ],
-    "season": "4",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3863,7 +3863,7 @@ export var IDs = [
       "Defense Power Down",
       "Paralyze"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3920,7 +3920,7 @@ export var IDs = [
       "Bleed",
       "Paralyze"
     ],
-    "season": "1e",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -3974,7 +3974,7 @@ export var IDs = [
     "statusKeywords": [
       "Bleed"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -4029,7 +4029,7 @@ export var IDs = [
       "Fragile",
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4084,7 +4084,7 @@ export var IDs = [
       "Burn",
       "Plus Coin Boost"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4193,7 +4193,7 @@ export var IDs = [
     "statusKeywords": [
       "Burn"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4248,7 +4248,7 @@ export var IDs = [
     "statusKeywords": [
       "Bleed"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4303,7 +4303,7 @@ export var IDs = [
       "Defense Level Down",
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4359,7 +4359,7 @@ export var IDs = [
       "Poise",
       "Sinking"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4412,7 +4412,7 @@ export var IDs = [
     "statusKeywords": [
       "Rupture"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4466,7 +4466,7 @@ export var IDs = [
     "statusKeywords": [
       "Poise"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4522,7 +4522,7 @@ export var IDs = [
       "Nails",
       "Plus Coin Drop"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4577,7 +4577,7 @@ export var IDs = [
       "Echoes of the Manor",
       "Sinking"
     ],
-    "season": "4",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4633,7 +4633,7 @@ export var IDs = [
       "Poise",
       "Rupture"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4689,7 +4689,7 @@ export var IDs = [
       "Defense Level Up",
       "Poise"
     ],
-    "season": "3",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4746,7 +4746,7 @@ export var IDs = [
       "Slash Fragility",
       "Slash Protection"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4802,7 +4802,7 @@ export var IDs = [
       "Rupture",
       "Sinking"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4858,7 +4858,7 @@ export var IDs = [
       "Tremor",
       "Tremor - Decay"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4913,7 +4913,7 @@ export var IDs = [
       "Poise",
       "Slash DMG Up"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -4968,7 +4968,7 @@ export var IDs = [
       "Haste",
       "Poise"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5022,7 +5022,7 @@ export var IDs = [
     "statusKeywords": [
       "Poise"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5083,7 +5083,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5139,7 +5139,7 @@ export var IDs = [
       "Charge",
       "Paralyze"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5196,7 +5196,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5253,7 +5253,7 @@ export var IDs = [
       "Pierce Fragility",
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5309,7 +5309,7 @@ export var IDs = [
       "Bleed",
       "Haste"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5365,7 +5365,7 @@ export var IDs = [
       "Haste",
       "Slash Fragility"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5422,7 +5422,7 @@ export var IDs = [
       "Slash Power Up",
       "Weakness Analyzed"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5476,7 +5476,7 @@ export var IDs = [
     "statusKeywords": [
       "Burn"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5531,7 +5531,7 @@ export var IDs = [
       "Poise",
       "Slash DMG Up"
     ],
-    "season": "3e",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5587,7 +5587,7 @@ export var IDs = [
       "Insight",
       "Sinking"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5644,7 +5644,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5703,7 +5703,7 @@ export var IDs = [
       "Plus Coin Drop",
       "Vengeance Mark"
     ],
-    "season": "3",
+    "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5758,7 +5758,7 @@ export var IDs = [
       "Rupture",
       "Talisman"
     ],
-    "season": "2",
+    "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5818,7 +5818,7 @@ export var IDs = [
       "Tremor - Chain",
       "Tremor Burst"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5875,7 +5875,7 @@ export var IDs = [
       "Tremor",
       "Tremor Burst"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5933,7 +5933,7 @@ export var IDs = [
       "Insight",
       "Sinking"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -5989,7 +5989,7 @@ export var IDs = [
       "Declared Duel - Don Quixote",
       "Haste"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -6046,7 +6046,7 @@ export var IDs = [
       "Load",
       "Rupture"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -6105,7 +6105,7 @@ export var IDs = [
       "HP Healing Down",
       "Photoelectricity"
     ],
-    "season": "4e",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -6161,7 +6161,7 @@ export var IDs = [
       "Charge",
       "Envy Fragility"
     ],
-    "season": "4e",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -6219,7 +6219,7 @@ export var IDs = [
       "Offense Level Up",
       "Sinking"
     ],
-    "season": "4",
+    "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -6406,7 +6406,7 @@ export var IDs = [
       "Rupture",
       "Strategic R&R Mode"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -6467,7 +6467,7 @@ export var IDs = [
       "Tremor Burst",
       "Unbreakable Coin"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -6523,7 +6523,7 @@ export var IDs = [
       "Poise",
       "Rupture"
     ],
-    "season": "5",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -6583,7 +6583,7 @@ export var IDs = [
       "Tremor Burst",
       "Unbreakable Coin"
     ],
-    "season": "5",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -6641,7 +6641,7 @@ export var IDs = [
       "Bloodfeast",
       "Sewing Target (Ally)"
     ],
-    "season": "5",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -6697,7 +6697,7 @@ export var IDs = [
       "HP Healing Down",
       "Rupture"
     ],
-    "season": "5",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -6757,7 +6757,7 @@ export var IDs = [
       "Bloodied Hand (Ally)",
       "Rupture"
     ],
-    "season": "5",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -6818,7 +6818,7 @@ export var IDs = [
       "Festive Fever (Ally)",
       "Rupture"
     ],
-    "season": "5",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -6882,7 +6882,7 @@ export var IDs = [
       "Rupture",
       "Strategic R&R Mode"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -6943,7 +6943,7 @@ export var IDs = [
       "Shimmering -Bloodfiend- (Ally)",
       "Unbreakable Coin"
     ],
-    "season": "5",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -7168,7 +7168,7 @@ export var IDs = [
       "Rupture",
       "Unbreakable Coin"
     ],
-    "season": "5e",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7224,7 +7224,7 @@ export var IDs = [
       "Burn",
       "Unbreakable Coin"
     ],
-    "season": "5e",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -7287,7 +7287,7 @@ export var IDs = [
       "Burn",
       "Fanatic"
     ],
-    "season": "1",
+    "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7348,7 +7348,7 @@ export var IDs = [
       "Slash Fragility",
       "Slash Power Up"
     ],
-    "season": "5e",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -7410,7 +7410,7 @@ export var IDs = [
       "Slash Fragility",
       "Unbreakable Coin"
     ],
-    "season": "5e",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -7464,7 +7464,7 @@ export var IDs = [
     "statusKeywords": [
       "Burn"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7520,7 +7520,7 @@ export var IDs = [
       "District 12 Fuel",
       "Overheated Fuel"
     ],
-    "season": "5",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -7577,7 +7577,7 @@ export var IDs = [
       "Nerve Strike - Don Quixote",
       "Poise"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7635,7 +7635,7 @@ export var IDs = [
       "Rupture",
       "Strider -Mao-"
     ],
-    "season": "5e",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7693,7 +7693,7 @@ export var IDs = [
       "Rupture",
       "Strider -Mao-"
     ],
-    "season": "5e",
+    "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7749,7 +7749,7 @@ export var IDs = [
       "Bleed",
       "Book of Vengeance -Sinclair-"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7804,7 +7804,7 @@ export var IDs = [
       "Sinking",
       "Unfocused Volley"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7865,7 +7865,7 @@ export var IDs = [
       "Unbreakable Coin",
       "Unfocused Volley"
     ],
-    "season": "6",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7925,7 +7925,7 @@ export var IDs = [
       "Serpent Arm",
       "Unbreakable Coin"
     ],
-    "season": "6",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -7991,7 +7991,7 @@ export var IDs = [
       "Tianjiu Star's Blade",
       "Unbreakable Coin"
     ],
-    "season": "6",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8059,7 +8059,7 @@ export var IDs = [
       "Rupture",
       "Unbreakable Coin"
     ],
-    "season": "6",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8126,7 +8126,7 @@ export var IDs = [
       "Tremor - Scorch",
       "Tremor Burst"
     ],
-    "season": "6",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8187,7 +8187,7 @@ export var IDs = [
       "Tremor - Scorch",
       "Tremor Burst"
     ],
-    "season": "6",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8250,7 +8250,7 @@ export var IDs = [
       "Torn Memory",
       "Unbreakable Coin"
     ],
-    "season": "6",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8470,7 +8470,7 @@ export var IDs = [
       "Unbreakable Coin",
       "Violent Collections"
     ],
-    "season": "6e",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 0
@@ -8541,7 +8541,7 @@ export var IDs = [
       "Unrelenting Storm",
       "Your Will Guides My Blade."
     ],
-    "season": "6",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8620,7 +8620,7 @@ export var IDs = [
       "Tremor Burst",
       "Unbreakable Coin"
     ],
-    "season": "6e",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8685,7 +8685,7 @@ export var IDs = [
       "Unbreakable Coin",
       "Unfocused Volley"
     ],
-    "season": "6e",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8749,7 +8749,7 @@ export var IDs = [
       "Tremor Burst",
       "Unbreakable Coin"
     ],
-    "season": "6",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8827,7 +8827,7 @@ export var IDs = [
       "Ready to Loose",
       "Target Aim"
     ],
-    "season": "Base Game",
+    "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8895,7 +8895,7 @@ export var IDs = [
       "Rupture",
       "Unbreakable Coin"
     ],
-    "season": "6e",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -8959,7 +8959,7 @@ export var IDs = [
       "Rupture",
       "Unbreakable Coin"
     ],
-    "season": "6e",
+    "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
       "support": 1
@@ -9143,6 +9143,655 @@ export var IDs = [
             "sinAffinity": "Pride",
             "coinCount": 1,
             "finalPower": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Heishou Pack - You Branch Adept Heathcliff",
+    "imagePath": "IDArt/Heathcliff/Heishou Pack - You Branch Adept.png",
+    "sinner": "Heathcliff",
+    "rarity": 2,
+    "preciseKeywords": [
+      "H Corp.",
+      "Heishou Pack",
+      "Heishou Pack Adept",
+      "Heishou Pack - You Branch"
+    ],
+    "statusKeywords": [
+      "Burn",
+      "Rupture",
+      "Bloodflame [血炎]",
+      "Unfocused Volley",
+      "Battleblood Instinct",
+      "Unbreakable Coin",
+      "Exalted Command",
+      "Heishou Bolus Contamination [黑獸丸染]",
+      "Offense Level Up",
+      "Defense Level Up",
+      "Clash Power Up"
+    ],
+    "season": "Season 6 - Zàng Huā Yín",
+    "passiveCount": {
+      "combat": 3,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 3,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 4,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Wrath",
+            "coinCount": 4,
+            "finalPower": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Heishou Pack - Wei Branch Don Quixote",
+    "imagePath": "IDArt/Don Quixote/Heishou Pack - Wei Branch.png",
+    "sinner": "Don Quixote",
+    "rarity": 2,
+    "preciseKeywords": [
+      "H Corp.",
+      "Heishou Pack",
+      "Heishou Pack",
+      "Heishou Pack - Wei Branch"
+    ],
+    "statusKeywords": [
+      "Sinking",
+      "Rupture",
+      "Shattermark",
+      "Burgeoning of Horns [發角]",
+      "Unbreakable Coin",
+      "Exalted Command",
+      "Heishou Bolus Contamination [黑獸丸染]",
+      "Clashable Guard",
+      "Defense Level Down"
+    ],
+    "season": "Season 6 - Zàng Huā Yín",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 4,
+            "finalPower": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Drifting Blade of Hongyuan Ryoshu",
+    "imagePath": "IDArt/Ryoshu/Drifting Blade of Hongyuan.png",
+    "sinner": "Ryoshu",
+    "rarity": 2,
+    "preciseKeywords": [
+      "H Corp."
+    ],
+    "statusKeywords": [
+      "Poise",
+      "Rupture",
+      "Protector's Stance",
+      "Clashable Guard",
+      "Unbreakable Coin"
+    ],
+    "season": "Season 6 - Zàng Huā Yín",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 1,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 4,
+            "finalPower": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "R Corp. 4th Pack Reindeer Rodion",
+    "imagePath": "IDArt/Rodion/R Corp. 4th Pack Reindeer.png",
+    "sinner": "Rodion",
+    "rarity": 2,
+    "preciseKeywords": [
+      "R Corp."
+    ],
+    "statusKeywords": [
+      "Charge",
+      "Sinking",
+      "Blunt Fragility",
+      "Unfocused Volley"
+    ],
+    "season": "Standard Fare",
+    "passiveCount": {
+      "combat": 1,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 2,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 4,
+            "finalPower": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "The Index Proselyte:【Paper Slip】Faust",
+    "imagePath": "IDArt/Faust/The Index Proselyte.png",
+    "sinner": "Faust",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The Index"
+    ],
+    "statusKeywords": [
+      "Poise",
+      "Sinking",
+      "Mark of the Prescript",
+      "The Prescript's Target",
+      "Grace of the Prescript",
+      "Prescript",
+      "Karmic Consequence",
+      "Unbreakable Coin"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 3,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Sloth",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 3,
+            "finalPower": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "LCA Udjat Vanguard Team 3 Leader Outis",
+    "imagePath": "IDArt/Outis/LCA Udjat Vanguard Team 3 Leader.png",
+    "sinner": "Outis",
+    "rarity": 2,
+    "preciseKeywords": [
+      "Limbus Company",
+      "LCA"
+    ],
+    "statusKeywords": [
+      "Tremor",
+      "Sinking",
+      "The Udjat [Vanguard]",
+      "Sheut Fracture",
+      "Protection",
+      "Aggro",
+      "LCA Fracture Round",
+      "Reload",
+      "Tremor Burst",
+      "Gloom Fragility"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Sloth",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 3,
+            "finalPower": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "The Index Proxy - Effloresced E.G.O::Procuration Don Quixote",
+    "imagePath": "IDArt/Don Quixote/The Index Proxy - Effloresced EGO.png",
+    "sinner": "Don Quixote",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The House of Spiders",
+      "The Index"
+    ],
+    "statusKeywords": [
+      "Mark of the Prescript",
+      "Poise",
+      "Sinking",
+      "The Prescript's Target",
+      "Grace of the Prescript",
+      "Unlock",
+      "Unbreakable Coin",
+      "Prescript",
+      "Karmic Consequence",
+      "Unbreakable Coin",
+      "Shin (心) - Procuration",
+      "Faith Beyond Question",
+      "Damage Up"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 4,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 11
+          }, 
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 12
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 3,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Pride",
+            "coinCount": 3,
+            "finalPower": 17
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 2,
+            "finalPower": 18
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Gloom",
+            "coinCount": 4,
+            "finalPower": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "The House of Spiders: The Middle Apprentice Ishmael",
+    "imagePath": "IDArt/Ishmael/The Middle Apprentice.png",
+    "sinner": "Ishmael",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The House of Spiders",
+      "The Middle"
+    ],
+    "statusKeywords": [
+      "Burn",
+      "Bleed",
+      "The Middle Styled Augmentation Tattoos",
+      "Aggro",
+      "Thermal Blades",
+      "Paralyze",
+      "Bind",
+      "The Middle - Grudge",
+      "Blunt DMG Up",
+      "Vengeance Mark"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 4,
+            "finalPower": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "The House of Spiders: The Pinky Apprentice Sinclair",
+    "imagePath": "IDArt/Sinclair/The Pinky Apprentice.png",
+    "sinner": "Sinclair",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The House of Spiders"
+    ],
+    "statusKeywords": [
+      "Poise",
+      "Bleed",
+      "Haste",
+      "Unfocused Volley",
+      "Moonlit Azure Blade",
+      "Unbreakable Coin"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 2,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 1,
+            "finalPower": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Lobotomy E.G.O::Lamp Gregor",
+    "imagePath": "IDArt/Gregor/Lobotomy EGO Lamp.png",
+    "sinner": "Gregor",
+    "rarity": 2,
+    "preciseKeywords": [
+      "E.G.O Gear",
+      "Limbus Company",
+      "LCE"
+    ],
+    "statusKeywords": [
+      "Dazzle",
+      "Sinking",
+      "Burn",
+      "Bind",
+      "Unbreakable Coin",
+      "Plus Coin Boost",
+      "Lamp",
+      "Haste",
+      "Clashable Guard",
+      "Clash Power Up",
+      "Defense Level Up",
+      "Pierce DMG Up",
+      "Guardians of the Forest",
+      "Aggro",
+      "Blunt DMG Up"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 3,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 4,
+            "finalPower": 15
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 3,
+            "finalPower": 17
           }
         ]
       }

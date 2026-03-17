@@ -9868,7 +9868,7 @@ export var IDs = [
     ]
   },
   {
-    "id": 166,
+    "id": 168,
     "name": "Lobotomy E.G.O::Faint Aroma & Solitude Ryoshu",
     "imagePath": "IDArt/Ryoshu/Aroma and Solitude.png",
     "sinner": "Ryoshu",
@@ -9941,7 +9941,7 @@ export var IDs = [
     ]
   },
   {
-    "id": 166,
+    "id": 169,
     "name": "Lobotomy E.G.O::Hornet【Alteration】Meursault",
     "imagePath": "IDArt/Meursault/Hornetsault.png",
     "sinner": "Meursault",

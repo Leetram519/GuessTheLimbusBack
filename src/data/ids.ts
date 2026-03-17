@@ -2816,7 +2816,7 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 18
+            "finalPower": 20
           }
         ]
       }
@@ -7180,8 +7180,8 @@ export var IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Sloth",
-            "coinCount": 1,
-            "finalPower": 7
+            "coinCount": 2,
+            "finalPower": 10
           }
         ]
       },
@@ -8273,8 +8273,8 @@ export var IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Lust",
-            "coinCount": 1,
-            "finalPower": 0
+            "coinCount": 2,
+            "finalPower": 16
           }
         ]
       },
@@ -8284,8 +8284,8 @@ export var IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Pride",
-            "coinCount": 1,
-            "finalPower": 11
+            "coinCount": 2,
+            "finalPower": 18
           }
         ]
       }
@@ -8357,13 +8357,13 @@ export var IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Envy",
-            "coinCount": 1,
-            "finalPower": 9
+            "coinCount": 3,
+            "finalPower": 17
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Envy",
-            "coinCount": 1,
+            "coinCount": 3,
             "finalPower": 20
           }
         ]
@@ -9792,6 +9792,211 @@ export var IDs = [
             "sinAffinity": "Pride",
             "coinCount": 3,
             "finalPower": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "The House of Spiders: The Index Nursefather Yi Sang",
+    "imagePath": "IDArt/Yi Sang/Index Nursefather.png",
+    "sinner": "Yi Sang",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers","The House of Spiders","The Index","The Oracle's Proxy"
+    ],
+    "statusKeywords": [
+      "Karmic Consequence",
+      "Mark of the Prescript",
+      "Poise",
+      "Sinking",
+      "Unbreakable Coin",
+      "Unlock",
+      "Procuration [Hermes]",
+      "Unfocused Volley",
+      "Paralyze",
+      "Burn",
+      "Bind",
+      "Fragile"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 5,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 4,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Wrath",
+            "coinCount": 9,
+            "finalPower": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Lobotomy E.G.O::Faint Aroma & Solitude Ryoshu",
+    "imagePath": "IDArt/Ryoshu/Aroma and Solitude.png",
+    "sinner": "Ryoshu",
+    "rarity": 2,
+    "preciseKeywords": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "statusKeywords": [
+      "Tremor",
+      "Sinking",
+      "Bullet - Solitude",
+      "Unfocused Volley",
+      "Solitude",
+      "Tremor Burst",
+      "Faint Aroma",
+      "Petals"
+    ],
+    "season": "Walpurgisnacht - VIII",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Sloth",
+            "coinCount": 2,
+            "finalPower": 12
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Sloth",
+            "coinCount": 3,
+            "finalPower": 12
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 3,
+            "finalPower": 17
+          },
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 1,
+            "finalPower": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Lobotomy E.G.O::Hornet【Alteration】Meursault",
+    "imagePath": "IDArt/Meursault/Hornetsault.png",
+    "sinner": "Meursault",
+    "rarity": 2,
+    "preciseKeywords": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "statusKeywords": [
+      "Spore",
+      "Spore Round [Base]",
+      "Pierce Fragility",
+      "Burn",
+      "Bleed",
+      "Loyalty Pheromone",
+      "Unbreakable Coin",
+      "Reload [Germination]",
+      "Spore Round [Buckshot]"
+    ],
+    "season": "Walpurgisnacht - VIII",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 12
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 3,
+            "finalPower": 16
           }
         ]
       }

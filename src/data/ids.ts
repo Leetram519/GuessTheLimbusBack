@@ -1,4 +1,4 @@
-export var IDs = [
+export const IDs = [
   {
     "id": 1,
     "name": "Liu Assoc. South Section 6 Gregor",
@@ -7,16 +7,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Liu Association"
+      "Liu Association",
     ],
     "statusKeywords": [
       "Attack Power Up",
-      "Burn"
+      "Burn",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -26,9 +26,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 8
-          }
-        ]
+            "finalPower": 8,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -37,9 +37,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -48,11 +48,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 2,
@@ -62,17 +62,17 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Molar Office"
+      "Molar Office",
     ],
     "statusKeywords": [
       "Rupture Protection",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -82,9 +82,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 6
-          }
-        ]
+            "finalPower": 6,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -93,9 +93,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -104,11 +104,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 3,
@@ -118,18 +118,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Molar Office"
+      "Molar Office",
     ],
     "statusKeywords": [
       "Discard",
       "Offense Level Up",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -139,9 +139,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -150,9 +150,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
+            "finalPower": 18,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -161,11 +161,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 4,
@@ -174,17 +174,17 @@ export var IDs = [
     "sinner": "Yi Sang",
     "rarity": 1,
     "preciseKeywords": [
-      "The Pequod"
+      "The Pequod",
     ],
     "statusKeywords": [
       "Bind",
       "Bleed",
-      "Poise"
+      "Poise",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -194,9 +194,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -205,9 +205,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -216,11 +216,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 5,
@@ -229,19 +229,19 @@ export var IDs = [
     "sinner": "Yi Sang",
     "rarity": 2,
     "preciseKeywords": [
-      "W Corp."
+      "W Corp.",
     ],
     "statusKeywords": [
       "Bind",
       "Charge",
       "Charge Barrier",
       "Dimensional Rift",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -251,9 +251,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -262,9 +262,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -273,11 +273,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 6,
@@ -287,18 +287,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "N Corp.",
-      "N Corp. Fanatic"
+      "N Corp. Fanatic",
     ],
     "statusKeywords": [
       "Bleed",
       "Fanatic",
       "Nails",
-      "Paralyze"
+      "Paralyze",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -308,9 +308,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -319,9 +319,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -330,11 +330,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 7,
@@ -344,18 +344,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Syndicate",
-      "Kurokumo Clan"
+      "Kurokumo Clan",
     ],
     "statusKeywords": [
       "Attack Power Down",
       "Bleed",
       "Offense Level Down",
-      "Plus Coin Drop"
+      "Plus Coin Drop",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -365,9 +365,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -376,9 +376,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -387,11 +387,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 8,
@@ -401,19 +401,19 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "N Corp.",
-      "N Corp. Fanatic"
+      "N Corp. Fanatic",
     ],
     "statusKeywords": [
       "Attack Power Down",
       "Nails",
       "Paralyze",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -423,9 +423,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -434,9 +434,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -445,11 +445,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 9,
@@ -459,15 +459,15 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Dawn Office"
+      "Dawn Office",
     ],
     "statusKeywords": [
-      "Burn"
+      "Burn",
     ],
     "season": "Walpurgis Night III",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -477,9 +477,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -488,9 +488,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -499,17 +499,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 18
+            "finalPower": 18,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 28
-          }
-        ]
-      }
-    ]
+            "finalPower": 28,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 10,
@@ -519,7 +519,7 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Edgar Family"
+      "Edgar Family",
     ],
     "statusKeywords": [
       "Bind",
@@ -527,12 +527,12 @@ export var IDs = [
       "Haste",
       "Poise",
       "Sinking",
-      "Slash Fragility"
+      "Slash Fragility",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -542,9 +542,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -553,9 +553,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -564,11 +564,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 11,
@@ -578,15 +578,15 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Blade Lineage"
+      "Blade Lineage",
     ],
     "statusKeywords": [
-      "Poise"
+      "Poise",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -596,9 +596,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -607,9 +607,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -618,11 +618,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 12,
@@ -632,18 +632,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Zwei Association"
+      "Zwei Association",
     ],
     "statusKeywords": [
       "Aggro",
       "Defense Level Up",
       "Defense Power Up",
-      "Haste"
+      "Haste",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -653,9 +653,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -664,9 +664,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 4,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -675,11 +675,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 13,
@@ -689,18 +689,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Yurodiviye"
+      "Yurodiviye",
     ],
     "statusKeywords": [
       "Amplitude Entanglement",
       "Tremor",
       "Tremor - Reverb",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -710,9 +710,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -721,9 +721,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -732,11 +732,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 4,
-            "finalPower": 15
-          }
-        ]
-      }
-    ]
+            "finalPower": 15,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 14,
@@ -747,7 +747,7 @@ export var IDs = [
     "preciseKeywords": [
       "The Backstreets",
       "Syndicate",
-      "R.B."
+      "R.B.",
     ],
     "statusKeywords": [
       "Appetite",
@@ -755,12 +755,12 @@ export var IDs = [
       "Bleed",
       "HP Healing Down",
       "Haste",
-      "Paralyze"
+      "Paralyze",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -770,9 +770,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -781,9 +781,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
+            "finalPower": 18,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -792,11 +792,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 4,
-            "finalPower": 15
-          }
-        ]
-      }
-    ]
+            "finalPower": 15,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 15,
@@ -806,18 +806,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Dieci Association"
+      "Dieci Association",
     ],
     "statusKeywords": [
       "Aggro",
       "Discard",
       "Insight",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -827,9 +827,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 9
-          }
-        ]
+            "finalPower": 9,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -838,9 +838,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 4,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -849,11 +849,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 16,
@@ -863,7 +863,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "N Corp.",
-      "N Corp. Fanatic"
+      "N Corp. Fanatic",
     ],
     "statusKeywords": [
       "Bleed",
@@ -871,12 +871,12 @@ export var IDs = [
       "Gaze",
       "Nails",
       "Paralyze",
-      "Pierce DMG Up"
+      "Pierce DMG Up",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -886,9 +886,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -897,9 +897,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -908,11 +908,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 17,
@@ -922,16 +922,16 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "The Middle"
+      "The Middle",
     ],
     "statusKeywords": [
       "Bleed",
-      "Damage Down"
+      "Damage Down",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -941,9 +941,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -952,9 +952,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -963,11 +963,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 18,
@@ -977,15 +977,15 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
-      "Bleed"
+      "Bleed",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -995,9 +995,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1006,9 +1006,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1017,11 +1017,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 19,
@@ -1031,19 +1031,19 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Blade Lineage"
+      "Blade Lineage",
     ],
     "statusKeywords": [
       "Attack Power Up",
       "Bleed",
       "Damage Up",
       "Paralyze",
-      "Poise"
+      "Poise",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1053,9 +1053,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 9
-          }
-        ]
+            "finalPower": 9,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1064,9 +1064,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1075,11 +1075,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 26
-          }
-        ]
-      }
-    ]
+            "finalPower": 26,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 20,
@@ -1089,15 +1089,15 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Liu Association"
+      "Liu Association",
     ],
     "statusKeywords": [
-      "Burn"
+      "Burn",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1107,9 +1107,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1118,9 +1118,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1129,11 +1129,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 21,
@@ -1143,18 +1143,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Syndicate",
-      "The Ring"
+      "The Ring",
     ],
     "statusKeywords": [
       "Bleed",
       "Haste",
       "Pierce DMG Up",
-      "Pierce Power Up"
+      "Pierce Power Up",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -1164,9 +1164,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1175,9 +1175,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1186,11 +1186,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 22,
@@ -1200,18 +1200,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Rosespanner Workshop"
+      "Rosespanner Workshop",
     ],
     "statusKeywords": [
       "Charge",
       "Rupture",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1221,9 +1221,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1232,9 +1232,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1243,11 +1243,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 23,
@@ -1257,17 +1257,17 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Edgar Family"
+      "Edgar Family",
     ],
     "statusKeywords": [
       "B.M.",
       "Bind",
-      "Poise"
+      "Poise",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1277,9 +1277,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1288,9 +1288,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1299,11 +1299,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 24,
@@ -1313,15 +1313,15 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1331,9 +1331,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 9
-          }
-        ]
+            "finalPower": 9,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1342,9 +1342,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1353,11 +1353,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 21
-          }
-        ]
-      }
-    ]
+            "finalPower": 21,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 25,
@@ -1367,18 +1367,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Seven Association"
+      "Seven Association",
     ],
     "statusKeywords": [
       "Attack Power Up",
       "Defense Level Down",
       "Rupture",
-      "Slash Fragility"
+      "Slash Fragility",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1388,9 +1388,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1399,9 +1399,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 18
-          }
-        ]
+            "finalPower": 18,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1410,11 +1410,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 19
-          }
-        ]
-      }
-    ]
+            "finalPower": 19,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 26,
@@ -1423,17 +1423,17 @@ export var IDs = [
     "sinner": "Hong Lu",
     "rarity": 2,
     "preciseKeywords": [
-      "K Corp."
+      "K Corp.",
     ],
     "statusKeywords": [
       "Aggro",
       "K Corp Ampule",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1443,9 +1443,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1454,9 +1454,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1465,11 +1465,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 27,
@@ -1479,19 +1479,19 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "N Corp.",
-      "N Corp. Fanatic"
+      "N Corp. Fanatic",
     ],
     "statusKeywords": [
       "Aggro",
       "Attack Power Down",
       "Bind",
       "Nails",
-      "Protection"
+      "Protection",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1501,9 +1501,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 7
-          }
-        ]
+            "finalPower": 7,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1512,9 +1512,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1523,11 +1523,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 28,
@@ -1537,18 +1537,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Lobotomy Corp. Headquarters",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Offense Level Down",
       "Plus Coin Drop",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Walpurgis Night I",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1558,9 +1558,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1569,9 +1569,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1580,11 +1580,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 29,
@@ -1594,17 +1594,17 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Attack Power Down",
       "Offense Level Down",
-      "Paralyze"
+      "Paralyze",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1614,9 +1614,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1625,9 +1625,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1636,11 +1636,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
-      }
-    ]
+            "finalPower": 11,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 30,
@@ -1650,15 +1650,15 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Liu Association"
+      "Liu Association",
     ],
     "statusKeywords": [
-      "Burn"
+      "Burn",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1668,9 +1668,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1679,9 +1679,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1690,11 +1690,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 31,
@@ -1704,16 +1704,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Wuthering Heights"
+      "Wuthering Heights",
     ],
     "statusKeywords": [
       "Echoes of the Manor",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1723,9 +1723,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1734,9 +1734,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1745,11 +1745,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 32,
@@ -1759,19 +1759,19 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Cinq Association"
+      "Cinq Association",
     ],
     "statusKeywords": [
       "Aggro",
       "Bind",
       "Declared Duel - Outis",
       "Haste",
-      "Poise"
+      "Poise",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1781,9 +1781,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1792,9 +1792,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1803,11 +1803,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 22
-          }
-        ]
-      }
-    ]
+            "finalPower": 22,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 33,
@@ -1817,16 +1817,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Syndicate",
-      "Yurodiviye"
+      "Yurodiviye",
     ],
     "statusKeywords": [
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1836,9 +1836,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1847,9 +1847,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1858,11 +1858,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 34,
@@ -1872,18 +1872,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Twinhook Pirates"
+      "Twinhook Pirates",
     ],
     "statusKeywords": [
       "Ammo",
       "Bleed",
       "Plus Coin Boost",
-      "Poise"
+      "Poise",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1893,9 +1893,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1904,9 +1904,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1915,11 +1915,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 35,
@@ -1929,16 +1929,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Syndicate",
-      "Kurokumo Clan"
+      "Kurokumo Clan",
     ],
     "statusKeywords": [
       "Bleed",
-      "Paralyze"
+      "Paralyze",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -1948,9 +1948,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -1959,9 +1959,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -1970,11 +1970,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 36,
@@ -1984,16 +1984,16 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Pierce Fragility",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2003,9 +2003,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2014,9 +2014,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2025,11 +2025,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 37,
@@ -2039,18 +2039,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Molar Office"
+      "Molar Office",
     ],
     "statusKeywords": [
       "Defense Level Down",
       "Discard",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2060,9 +2060,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2071,9 +2071,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2082,11 +2082,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 38,
@@ -2095,19 +2095,19 @@ export var IDs = [
     "sinner": "Heathcliff",
     "rarity": 2,
     "preciseKeywords": [
-      "R Corp."
+      "R Corp.",
     ],
     "statusKeywords": [
       "Ammo",
       "Bleed",
       "Charge",
       "Fragile",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2117,9 +2117,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2128,9 +2128,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2139,11 +2139,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 5,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 39,
@@ -2153,17 +2153,17 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Kurokumo Clan"
+      "Kurokumo Clan",
     ],
     "statusKeywords": [
       "Bleed",
       "Poise",
-      "Protection"
+      "Protection",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2173,9 +2173,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2184,9 +2184,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2195,11 +2195,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 25
-          }
-        ]
-      }
-    ]
+            "finalPower": 25,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 40,
@@ -2209,18 +2209,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Rosespanner Workshop"
+      "Rosespanner Workshop",
     ],
     "statusKeywords": [
       "Attack Power Down",
       "Charge",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2230,9 +2230,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2241,9 +2241,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2252,11 +2252,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 41,
@@ -2265,18 +2265,18 @@ export var IDs = [
     "sinner": "Gregor",
     "rarity": 2,
     "preciseKeywords": [
-      "Edgar Family"
+      "Edgar Family",
     ],
     "statusKeywords": [
       "Damage Up",
       "Haste",
       "Plus Coin Boost",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2286,9 +2286,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2297,9 +2297,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2308,11 +2308,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 42,
@@ -2322,16 +2322,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Syndicate",
-      "Blade Lineage"
+      "Blade Lineage",
     ],
     "statusKeywords": [
       "Poise",
-      "Slash DMG Up"
+      "Slash DMG Up",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2341,9 +2341,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2352,9 +2352,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2363,11 +2363,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 43,
@@ -2377,17 +2377,17 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Zwei Association"
+      "Zwei Association",
     ],
     "statusKeywords": [
       "Aggro",
       "Fragile",
-      "Poise"
+      "Poise",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2397,9 +2397,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 8
-          }
-        ]
+            "finalPower": 8,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2408,9 +2408,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2419,11 +2419,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 11
-          }
-        ]
-      }
-    ]
+            "finalPower": 11,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 44,
@@ -2432,16 +2432,16 @@ export var IDs = [
     "sinner": "Meursault",
     "rarity": 2,
     "preciseKeywords": [
-      "R Corp."
+      "R Corp.",
     ],
     "statusKeywords": [
       "Bleed",
-      "Charge"
+      "Charge",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2451,9 +2451,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2462,9 +2462,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2473,11 +2473,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 15
-          }
-        ]
-      }
-    ]
+            "finalPower": 15,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 45,
@@ -2487,7 +2487,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Blade Lineage"
+      "Blade Lineage",
     ],
     "statusKeywords": [
       "Aggro",
@@ -2496,12 +2496,12 @@ export var IDs = [
       "Poise",
       "Slash Power Up",
       "Sword of the Homeland - Penetrating",
-      "Sword of the Homeland - Rending"
+      "Sword of the Homeland - Rending",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -2511,9 +2511,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2522,9 +2522,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
+            "finalPower": 18,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2533,11 +2533,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 20
-          }
-        ]
-      }
-    ]
+            "finalPower": 20,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 46,
@@ -2547,19 +2547,19 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Cinq Association"
+      "Cinq Association",
     ],
     "statusKeywords": [
       "Declared Duel - Sinclair",
       "Fragile",
       "Haste",
       "Poise",
-      "Single Combat"
+      "Single Combat",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2569,9 +2569,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2580,9 +2580,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2591,11 +2591,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 47,
@@ -2605,17 +2605,17 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Lobotomy Corp. Headquarters",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Burn",
       "Dark Flame",
-      "Magic Bullet"
+      "Magic Bullet",
     ],
     "season": "Walpurgis Night II",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2625,9 +2625,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2636,9 +2636,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2647,11 +2647,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 19
-          }
-        ]
-      }
-    ]
+            "finalPower": 19,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 48,
@@ -2660,16 +2660,16 @@ export var IDs = [
     "sinner": "Ishmael",
     "rarity": 2,
     "preciseKeywords": [
-      "R Corp."
+      "R Corp.",
     ],
     "statusKeywords": [
       "Charge",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2679,9 +2679,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2690,9 +2690,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 18
-          }
-        ]
+            "finalPower": 18,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2701,11 +2701,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 26
-          }
-        ]
-      }
-    ]
+            "finalPower": 26,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 49,
@@ -2715,17 +2715,17 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Zwei Association"
+      "Zwei Association",
     ],
     "statusKeywords": [
       "Aggro",
       "Defense Level Up",
-      "Haste"
+      "Haste",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2735,9 +2735,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2746,9 +2746,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2757,11 +2757,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 50,
@@ -2771,7 +2771,7 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Zwei Association"
+      "Zwei Association",
     ],
     "statusKeywords": [
       "Aggro",
@@ -2779,12 +2779,12 @@ export var IDs = [
       "Damage Down",
       "Protection",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2794,9 +2794,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2805,9 +2805,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2816,11 +2816,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 20
-          }
-        ]
-      }
-    ]
+            "finalPower": 20,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 51,
@@ -2830,16 +2830,16 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Fragile",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2849,9 +2849,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2860,9 +2860,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2871,11 +2871,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 52,
@@ -2885,18 +2885,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Dieci Association"
+      "Dieci Association",
     ],
     "statusKeywords": [
       "Aggro",
       "Discard",
       "Insight",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2906,9 +2906,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2917,9 +2917,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2928,11 +2928,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 53,
@@ -2942,19 +2942,19 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Technology Liberation Alliance",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Fragile",
       "Paralyze",
       "Rupture",
       "Sinking",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -2964,9 +2964,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 6
-          }
-        ]
+            "finalPower": 6,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -2975,9 +2975,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -2986,11 +2986,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 54,
@@ -3000,7 +3000,7 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Limbus Company",
-      "LCC"
+      "LCC",
     ],
     "statusKeywords": [
       "Ammo",
@@ -3008,12 +3008,12 @@ export var IDs = [
       "Poise",
       "Rupture",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3023,9 +3023,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3034,9 +3034,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3045,11 +3045,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 55,
@@ -3058,17 +3058,17 @@ export var IDs = [
     "sinner": "Yi Sang",
     "rarity": 2,
     "preciseKeywords": [
-      "Technology Liberation Alliance"
+      "Technology Liberation Alliance",
     ],
     "statusKeywords": [
       "Sinking",
       "Sinking Deluge",
-      "Tremor"
+      "Tremor",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3078,9 +3078,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 9
-          }
-        ]
+            "finalPower": 9,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3089,9 +3089,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3100,11 +3100,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 56,
@@ -3114,18 +3114,18 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Attack Power Up",
       "Damage Up",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3135,9 +3135,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3146,9 +3146,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3157,11 +3157,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 20
-          }
-        ]
-      }
-    ]
+            "finalPower": 20,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 57,
@@ -3170,19 +3170,19 @@ export var IDs = [
     "sinner": "Outis",
     "rarity": 1,
     "preciseKeywords": [
-      "G Corp."
+      "G Corp.",
     ],
     "statusKeywords": [
       "Attack Power Down",
       "Attack Power Up",
       "Damage Up",
       "Protection",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3192,9 +3192,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3203,9 +3203,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3214,11 +3214,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 22
-          }
-        ]
-      }
-    ]
+            "finalPower": 22,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 58,
@@ -3227,17 +3227,17 @@ export var IDs = [
     "sinner": "Hong Lu",
     "rarity": 1,
     "preciseKeywords": [
-      "W Corp."
+      "W Corp.",
     ],
     "statusKeywords": [
       "Charge",
       "Charge Barrier",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3247,9 +3247,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3258,9 +3258,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3269,11 +3269,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 59,
@@ -3283,18 +3283,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Blade Lineage"
+      "Blade Lineage",
     ],
     "statusKeywords": [
       "Bind",
       "Poise",
       "Red Plum Blossom",
-      "Slash Fragility"
+      "Slash Fragility",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3304,9 +3304,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 9
-          }
-        ]
+            "finalPower": 9,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3315,9 +3315,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3326,11 +3326,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 60,
@@ -3340,7 +3340,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Seven Association"
+      "Seven Association",
     ],
     "statusKeywords": [
       "Defense Level Down",
@@ -3349,12 +3349,12 @@ export var IDs = [
       "Offense Level Down",
       "Paralyze",
       "Rupture",
-      "Weakness Analyzed"
+      "Weakness Analyzed",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3364,9 +3364,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3375,9 +3375,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3386,11 +3386,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 61,
@@ -3400,16 +3400,16 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Attack Power Up",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3419,9 +3419,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3430,9 +3430,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3441,11 +3441,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 62,
@@ -3455,19 +3455,19 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Molar Office"
+      "Molar Office",
     ],
     "statusKeywords": [
       "Defense Level Down",
       "Fragile",
       "Rupture Protection",
       "Sinking",
-      "Tremor"
+      "Tremor",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3477,9 +3477,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3488,9 +3488,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3499,11 +3499,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 63,
@@ -3512,7 +3512,7 @@ export var IDs = [
     "sinner": "Ishmael",
     "rarity": 2,
     "preciseKeywords": [
-      "The Pequod"
+      "The Pequod",
     ],
     "statusKeywords": [
       "Aggro",
@@ -3524,12 +3524,12 @@ export var IDs = [
       "Offense Level Up",
       "Poise",
       "Pride Power Up",
-      "Protection"
+      "Protection",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -3539,9 +3539,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3550,9 +3550,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3561,11 +3561,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 64,
@@ -3576,16 +3576,16 @@ export var IDs = [
     "preciseKeywords": [
       "The Backstreets",
       "Fixer",
-      "Hook Office"
+      "Hook Office",
     ],
     "statusKeywords": [
       "Bleed",
-      "Haste"
+      "Haste",
     ],
     "season": "Walpurgis Night I",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3595,9 +3595,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3606,9 +3606,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3617,11 +3617,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 65,
@@ -3631,17 +3631,17 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Rosespanner Workshop"
+      "Rosespanner Workshop",
     ],
     "statusKeywords": [
       "Charge",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3651,9 +3651,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3662,9 +3662,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3673,11 +3673,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 66,
@@ -3687,18 +3687,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Kurokumo Clan"
+      "Kurokumo Clan",
     ],
     "statusKeywords": [
       "Bleed",
       "Damage Down",
       "Offense Level Down",
-      "Paralyze"
+      "Paralyze",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3708,9 +3708,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3719,9 +3719,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3730,11 +3730,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 67,
@@ -3744,18 +3744,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Technology Liberation Alliance",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Aggro",
       "Rupture",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3765,9 +3765,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3776,9 +3776,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3787,11 +3787,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 22
-          }
-        ]
-      }
-    ]
+            "finalPower": 22,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 68,
@@ -3801,16 +3801,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Syndicate",
-      "The Dead Rabbits"
+      "The Dead Rabbits",
     ],
     "statusKeywords": [
       "Offense Level Down",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3820,9 +3820,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3831,9 +3831,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3842,11 +3842,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 69,
@@ -3856,17 +3856,17 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Limbus Company",
-      "LCC"
+      "LCC",
     ],
     "statusKeywords": [
       "Defense Level Down",
       "Defense Power Down",
-      "Paralyze"
+      "Paralyze",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3876,9 +3876,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3887,9 +3887,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 8
-          }
-        ]
+            "finalPower": 8,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3898,11 +3898,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
-      }
-    ]
+            "finalPower": 11,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 70,
@@ -3913,17 +3913,17 @@ export var IDs = [
     "preciseKeywords": [
       "The Backstreets",
       "Syndicate",
-      "R.B."
+      "R.B.",
     ],
     "statusKeywords": [
       "Bind",
       "Bleed",
-      "Paralyze"
+      "Paralyze",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -3933,9 +3933,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 8
-          }
-        ]
+            "finalPower": 8,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3944,9 +3944,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -3955,11 +3955,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 4,
-            "finalPower": 9
-          }
-        ]
-      }
-    ]
+            "finalPower": 9,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 71,
@@ -3969,15 +3969,15 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "The Ring"
+      "The Ring",
     ],
     "statusKeywords": [
-      "Bleed"
+      "Bleed",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -3987,9 +3987,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -3998,9 +3998,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4009,11 +4009,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 4,
-            "finalPower": 15
-          }
-        ]
-      }
-    ]
+            "finalPower": 15,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 72,
@@ -4022,17 +4022,17 @@ export var IDs = [
     "sinner": "Don Quixote",
     "rarity": 2,
     "preciseKeywords": [
-      "W Corp."
+      "W Corp.",
     ],
     "statusKeywords": [
       "Charge",
       "Fragile",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4042,9 +4042,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4053,9 +4053,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4064,11 +4064,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 5,
-            "finalPower": 11
-          }
-        ]
-      }
-    ]
+            "finalPower": 11,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 73,
@@ -4078,16 +4078,16 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Liu Association"
+      "Liu Association",
     ],
     "statusKeywords": [
       "Burn",
-      "Plus Coin Boost"
+      "Plus Coin Boost",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4097,9 +4097,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4108,9 +4108,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4119,11 +4119,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 4,
-            "finalPower": 15
-          }
-        ]
-      }
-    ]
+            "finalPower": 15,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 74,
@@ -4133,16 +4133,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Lobotomy Corp. Headquarters",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Aggro",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Walpurgis Night II",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4152,9 +4152,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4163,9 +4163,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4174,11 +4174,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 75,
@@ -4188,15 +4188,15 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Liu Association"
+      "Liu Association",
     ],
     "statusKeywords": [
-      "Burn"
+      "Burn",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4206,9 +4206,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4217,9 +4217,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4228,11 +4228,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 76,
@@ -4243,15 +4243,15 @@ export var IDs = [
     "preciseKeywords": [
       "The Backstreets",
       "Syndicate",
-      "Tingtang Gang"
+      "Tingtang Gang",
     ],
     "statusKeywords": [
-      "Bleed"
+      "Bleed",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4261,9 +4261,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4272,9 +4272,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
+            "finalPower": 18,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4283,11 +4283,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 30
-          }
-        ]
-      }
-    ]
+            "finalPower": 30,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 77,
@@ -4297,16 +4297,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Seven Association"
+      "Seven Association",
     ],
     "statusKeywords": [
       "Defense Level Down",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4316,9 +4316,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4327,9 +4327,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4338,11 +4338,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 78,
@@ -4353,16 +4353,16 @@ export var IDs = [
     "preciseKeywords": [
       "The Backstreets",
       "Syndicate",
-      "Los Mariachis"
+      "Los Mariachis",
     ],
     "statusKeywords": [
       "Poise",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4372,9 +4372,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 8
-          }
-        ]
+            "finalPower": 8,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4383,9 +4383,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 8
-          }
-        ]
+            "finalPower": 8,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4394,11 +4394,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 19
-          }
-        ]
-      }
-    ]
+            "finalPower": 19,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 79,
@@ -4407,15 +4407,15 @@ export var IDs = [
     "sinner": "Gregor",
     "rarity": 2,
     "preciseKeywords": [
-      "G Corp."
+      "G Corp.",
     ],
     "statusKeywords": [
-      "Rupture"
+      "Rupture",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4425,9 +4425,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4436,9 +4436,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4447,11 +4447,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 80,
@@ -4461,15 +4461,15 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Shi Association"
+      "Shi Association",
     ],
     "statusKeywords": [
-      "Poise"
+      "Poise",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4479,9 +4479,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4490,9 +4490,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4501,11 +4501,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 81,
@@ -4515,17 +4515,17 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "N Corp.",
-      "N Corp. Fanatic"
+      "N Corp. Fanatic",
     ],
     "statusKeywords": [
       "Bleed",
       "Nails",
-      "Plus Coin Drop"
+      "Plus Coin Drop",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4535,9 +4535,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4546,9 +4546,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4557,11 +4557,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 82,
@@ -4571,16 +4571,16 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Wuthering Heights"
+      "Wuthering Heights",
     ],
     "statusKeywords": [
       "Echoes of the Manor",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4590,9 +4590,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4601,9 +4601,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4612,11 +4612,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 83,
@@ -4626,17 +4626,17 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Lobotomy Corp. Branch"
+      "Lobotomy Corp. Branch",
     ],
     "statusKeywords": [
       "Haste",
       "Poise",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4646,9 +4646,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4657,9 +4657,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4668,11 +4668,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 20
-          }
-        ]
-      }
-    ]
+            "finalPower": 20,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 84,
@@ -4681,18 +4681,18 @@ export var IDs = [
     "sinner": "Heathcliff",
     "rarity": 2,
     "preciseKeywords": [
-      "The Pequod"
+      "The Pequod",
     ],
     "statusKeywords": [
       "Aggro",
       "Bleed",
       "Defense Level Up",
-      "Poise"
+      "Poise",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4702,9 +4702,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4713,9 +4713,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4724,11 +4724,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 85,
@@ -4737,19 +4737,19 @@ export var IDs = [
     "sinner": "Meursault",
     "rarity": 2,
     "preciseKeywords": [
-      "W Corp."
+      "W Corp.",
     ],
     "statusKeywords": [
       "Charge",
       "Defense Level Down",
       "Rupture",
       "Slash Fragility",
-      "Slash Protection"
+      "Slash Protection",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4759,9 +4759,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4770,9 +4770,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4781,11 +4781,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 4,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 86,
@@ -4795,17 +4795,17 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Attack Power Down",
       "Rupture",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4815,9 +4815,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4826,9 +4826,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4837,11 +4837,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 87,
@@ -4851,17 +4851,17 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Öufi Association"
+      "Öufi Association",
     ],
     "statusKeywords": [
       "Amplitude Conversion",
       "Tremor",
-      "Tremor - Decay"
+      "Tremor - Decay",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4871,9 +4871,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4882,9 +4882,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4893,11 +4893,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 88,
@@ -4907,16 +4907,16 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Poise",
-      "Slash DMG Up"
+      "Slash DMG Up",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4926,9 +4926,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4937,9 +4937,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -4948,11 +4948,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 89,
@@ -4962,16 +4962,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Shi Association"
+      "Shi Association",
     ],
     "statusKeywords": [
       "Haste",
-      "Poise"
+      "Poise",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -4981,9 +4981,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -4992,9 +4992,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5003,11 +5003,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 25
-          }
-        ]
-      }
-    ]
+            "finalPower": 25,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 90,
@@ -5017,15 +5017,15 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Shi Association"
+      "Shi Association",
     ],
     "statusKeywords": [
-      "Poise"
+      "Poise",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5035,9 +5035,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5046,9 +5046,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5057,11 +5057,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 91,
@@ -5071,7 +5071,7 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Limbus Company",
-      "LCC"
+      "LCC",
     ],
     "statusKeywords": [
       "Aggro",
@@ -5081,12 +5081,12 @@ export var IDs = [
       "Paralyze",
       "Rupture",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5096,9 +5096,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5107,9 +5107,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5118,11 +5118,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 92,
@@ -5131,18 +5131,18 @@ export var IDs = [
     "sinner": "Faust",
     "rarity": 1,
     "preciseKeywords": [
-      "W Corp."
+      "W Corp.",
     ],
     "statusKeywords": [
       "Attack Power Down",
       "Bind",
       "Charge",
-      "Paralyze"
+      "Paralyze",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5152,9 +5152,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5163,9 +5163,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5174,11 +5174,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 15
-          }
-        ]
-      }
-    ]
+            "finalPower": 15,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 93,
@@ -5188,18 +5188,18 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Defense Power Up",
       "Protection",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5209,9 +5209,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5220,9 +5220,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5231,11 +5231,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 94,
@@ -5245,18 +5245,18 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Seven Association"
+      "Seven Association",
     ],
     "statusKeywords": [
       "Fragile",
       "Paralyze",
       "Pierce Fragility",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5266,9 +5266,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5277,9 +5277,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5288,11 +5288,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 95,
@@ -5302,17 +5302,17 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Attack Power Up",
       "Bleed",
-      "Haste"
+      "Haste",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5322,9 +5322,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5333,9 +5333,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5344,11 +5344,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 12
-          }
-        ]
-      }
-    ]
+            "finalPower": 12,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 96,
@@ -5357,18 +5357,18 @@ export var IDs = [
     "sinner": "Ryoshu",
     "rarity": 2,
     "preciseKeywords": [
-      "W Corp."
+      "W Corp.",
     ],
     "statusKeywords": [
       "Charge",
       "Charge Barrier",
       "Haste",
-      "Slash Fragility"
+      "Slash Fragility",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5378,9 +5378,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 9
-          }
-        ]
+            "finalPower": 9,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5389,9 +5389,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
+            "finalPower": 17,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5400,11 +5400,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 4,
-            "finalPower": 11
-          }
-        ]
-      }
-    ]
+            "finalPower": 11,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 97,
@@ -5414,18 +5414,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Seven Association"
+      "Seven Association",
     ],
     "statusKeywords": [
       "Haste",
       "Rupture",
       "Slash Power Up",
-      "Weakness Analyzed"
+      "Weakness Analyzed",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5435,9 +5435,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5446,9 +5446,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5457,11 +5457,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 98,
@@ -5471,15 +5471,15 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Liu Association"
+      "Liu Association",
     ],
     "statusKeywords": [
-      "Burn"
+      "Burn",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5489,9 +5489,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5500,9 +5500,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5511,11 +5511,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 99,
@@ -5525,16 +5525,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Syndicate",
-      "Blade Lineage"
+      "Blade Lineage",
     ],
     "statusKeywords": [
       "Poise",
-      "Slash DMG Up"
+      "Slash DMG Up",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5544,9 +5544,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5555,9 +5555,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5566,11 +5566,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 100,
@@ -5580,17 +5580,17 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Dieci Association"
+      "Dieci Association",
     ],
     "statusKeywords": [
       "Discard",
       "Insight",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5600,9 +5600,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5611,9 +5611,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5622,11 +5622,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 101,
@@ -5636,18 +5636,18 @@ export var IDs = [
     "rarity": 0,
     "preciseKeywords": [
       "Limbus Company",
-      "LCB"
+      "LCB",
     ],
     "statusKeywords": [
       "Blunt Fragility",
       "Defense Power Down",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5657,9 +5657,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5668,9 +5668,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5679,11 +5679,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 20
-          }
-        ]
-      }
-    ]
+            "finalPower": 20,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 102,
@@ -5693,7 +5693,7 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Syndicate",
-      "The Middle"
+      "The Middle",
     ],
     "statusKeywords": [
       "Bleed",
@@ -5701,12 +5701,12 @@ export var IDs = [
       "Envy Fragility",
       "Envy Power Up",
       "Plus Coin Drop",
-      "Vengeance Mark"
+      "Vengeance Mark",
     ],
     "season": "Season 3 - Bon Voyage",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5716,9 +5716,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5727,9 +5727,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5738,11 +5738,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 103,
@@ -5752,16 +5752,16 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Technology Liberation Alliance",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Rupture",
-      "Talisman"
+      "Talisman",
     ],
     "season": "Season 2 - Reminiscence",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5771,9 +5771,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5782,9 +5782,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5793,11 +5793,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 104,
@@ -5806,7 +5806,7 @@ export var IDs = [
     "sinner": "Don Quixote",
     "rarity": 2,
     "preciseKeywords": [
-      "T Corp."
+      "T Corp.",
     ],
     "statusKeywords": [
       "Aggro",
@@ -5816,12 +5816,12 @@ export var IDs = [
       "Time Moratorium",
       "Tremor",
       "Tremor - Chain",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5831,9 +5831,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5842,9 +5842,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5853,11 +5853,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 105,
@@ -5866,19 +5866,19 @@ export var IDs = [
     "sinner": "Rodion",
     "rarity": 1,
     "preciseKeywords": [
-      "T Corp."
+      "T Corp.",
     ],
     "statusKeywords": [
       "Bind",
       "Borrowed Time",
       "Time Moratorium",
       "Tremor",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5888,9 +5888,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5899,9 +5899,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5910,11 +5910,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 4,
-            "finalPower": 14
-          }
-        ]
-      }
-    ]
+            "finalPower": 14,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 106,
@@ -5924,19 +5924,19 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Dieci Association"
+      "Dieci Association",
     ],
     "statusKeywords": [
       "Aggro",
       "Discard",
       "Erudition",
       "Insight",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -5946,9 +5946,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -5957,9 +5957,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -5968,11 +5968,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 107,
@@ -5982,17 +5982,17 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Cinq Association"
+      "Cinq Association",
     ],
     "statusKeywords": [
       "Bind",
       "Declared Duel - Don Quixote",
-      "Haste"
+      "Haste",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -6002,9 +6002,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6013,9 +6013,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6024,11 +6024,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 108,
@@ -6037,19 +6037,19 @@ export var IDs = [
     "sinner": "Outis",
     "rarity": 2,
     "preciseKeywords": [
-      "W Corp."
+      "W Corp.",
     ],
     "statusKeywords": [
       "Bind",
       "Charge",
       "Charge Barrier",
       "Load",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -6059,9 +6059,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6070,9 +6070,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 17
-          }
-        ]
+            "finalPower": 17,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6081,11 +6081,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 109,
@@ -6096,19 +6096,19 @@ export var IDs = [
     "preciseKeywords": [
       "Fixer",
       "MultiCrack Office",
-      "Mechanical Amalgam"
+      "Mechanical Amalgam",
     ],
     "statusKeywords": [
       "Blunt Fragility",
       "Charge",
       "Defense Level Down",
       "HP Healing Down",
-      "Photoelectricity"
+      "Photoelectricity",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -6118,9 +6118,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6129,9 +6129,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6140,11 +6140,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 110,
@@ -6155,16 +6155,16 @@ export var IDs = [
     "preciseKeywords": [
       "Fixer",
       "MultiCrack Office",
-      "Mechanical Amalgam"
+      "Mechanical Amalgam",
     ],
     "statusKeywords": [
       "Charge",
-      "Envy Fragility"
+      "Envy Fragility",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -6174,9 +6174,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6185,9 +6185,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6196,11 +6196,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 111,
@@ -6210,19 +6210,19 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Wuthering Heights",
-      "The Wild Hunt"
+      "The Wild Hunt",
     ],
     "statusKeywords": [
       "Coffin",
       "Dullahan",
       "Impending Ruin",
       "Offense Level Up",
-      "Sinking"
+      "Sinking",
     ],
     "season": "Season 4 - Clear All Cathy",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -6232,9 +6232,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6243,9 +6243,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6254,17 +6254,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 18
+            "finalPower": 18,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 31
-          }
-        ]
-      }
-    ]
+            "finalPower": 31,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 112,
@@ -6274,7 +6274,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Lobotomy Corp. Headquarters",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Attack Power Down",
@@ -6283,12 +6283,12 @@ export var IDs = [
       "Haste",
       "Only Ashes Remain",
       "Penitence",
-      "Red Eyes"
+      "Red Eyes",
     ],
     "season": "Walpurgis Night IV",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -6298,9 +6298,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6309,9 +6309,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6320,17 +6320,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 113,
@@ -6340,18 +6340,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Lobotomy Corp. Headquarters",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Butterfly",
       "Reload (Solemn Lament)",
       "Sinking",
-      "The Living & The Departed"
+      "The Living & The Departed",
     ],
     "season": "Walpurgis Night IV",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -6361,9 +6361,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6372,9 +6372,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6383,11 +6383,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 114,
@@ -6397,19 +6397,19 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Devyat' Association"
+      "Devyat' Association",
     ],
     "statusKeywords": [
       "Courier Trunk - Rodion",
       "Defense Level Down",
       "Haste",
       "Rupture",
-      "Strategic R&R Mode"
+      "Strategic R&R Mode",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -6419,9 +6419,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6430,9 +6430,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6441,11 +6441,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 115,
@@ -6455,7 +6455,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Zwei Association"
+      "Zwei Association",
     ],
     "statusKeywords": [
       "Aggro",
@@ -6465,12 +6465,12 @@ export var IDs = [
       "Defensive Stance",
       "Tremor",
       "Tremor Burst",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -6480,9 +6480,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6491,9 +6491,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6502,11 +6502,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 116,
@@ -6516,17 +6516,17 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Cinq Association"
+      "Cinq Association",
     ],
     "statusKeywords": [
       "Focused Attack - Meursault",
       "Poise",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -6536,9 +6536,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6547,9 +6547,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6558,11 +6558,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 117,
@@ -6572,7 +6572,7 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Zwei Association"
+      "Zwei Association",
     ],
     "statusKeywords": [
       "Aggro",
@@ -6581,12 +6581,12 @@ export var IDs = [
       "Offense Level Up",
       "Tremor",
       "Tremor Burst",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -6596,9 +6596,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6607,9 +6607,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6618,11 +6618,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 118,
@@ -6633,18 +6633,18 @@ export var IDs = [
     "preciseKeywords": [
       "Bloodfiend",
       "Third Kindred",
-      "La Manchaland"
+      "La Manchaland",
     ],
     "statusKeywords": [
       "Bleed",
       "Blood-tinged Scissorblades (Ally)",
       "Bloodfeast",
-      "Sewing Target (Ally)"
+      "Sewing Target (Ally)",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -6654,9 +6654,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6665,9 +6665,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6676,11 +6676,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 15
-          }
-        ]
-      }
-    ]
+            "finalPower": 15,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 119,
@@ -6690,17 +6690,17 @@ export var IDs = [
     "rarity": 1,
     "preciseKeywords": [
       "Fixer",
-      "Fanghunt Office"
+      "Fanghunt Office",
     ],
     "statusKeywords": [
       "Bleed",
       "HP Healing Down",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -6710,9 +6710,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6721,9 +6721,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6732,11 +6732,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 13
-          }
-        ]
-      }
-    ]
+            "finalPower": 13,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 120,
@@ -6747,7 +6747,7 @@ export var IDs = [
     "preciseKeywords": [
       "Third Kindred",
       "Bloodfiend",
-      "La Manchaland"
+      "La Manchaland",
     ],
     "statusKeywords": [
       "Aggro",
@@ -6755,12 +6755,12 @@ export var IDs = [
       "Bleed",
       "Bloodfeast",
       "Bloodied Hand (Ally)",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -6770,9 +6770,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6781,9 +6781,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6792,11 +6792,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 121,
@@ -6807,7 +6807,7 @@ export var IDs = [
     "preciseKeywords": [
       "La Manchaland",
       "Bloodfiend",
-      "Second Kindred"
+      "Second Kindred",
     ],
     "statusKeywords": [
       "Attack Power Up",
@@ -6816,12 +6816,12 @@ export var IDs = [
       "Bloodfeast Consumed",
       "Blooming Thorn (Ally)",
       "Festive Fever (Ally)",
-      "Rupture"
+      "Rupture",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -6831,9 +6831,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6842,9 +6842,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6853,17 +6853,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 19
-          }
-        ]
-      }
-    ]
+            "finalPower": 19,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 122,
@@ -6873,19 +6873,19 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Devyat' Association"
+      "Devyat' Association",
     ],
     "statusKeywords": [
       "Courier Trunk - Sinclair",
       "Defense Level Down",
       "Haste",
       "Rupture",
-      "Strategic R&R Mode"
+      "Strategic R&R Mode",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -6895,9 +6895,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6906,9 +6906,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6917,11 +6917,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 123,
@@ -6932,7 +6932,7 @@ export var IDs = [
     "preciseKeywords": [
       "La Manchaland",
       "Bloodfiend",
-      "Second Kindred"
+      "Second Kindred",
     ],
     "statusKeywords": [
       "Bleed",
@@ -6941,12 +6941,12 @@ export var IDs = [
       "Bloodfeast Consumed (shared)",
       "Hardblood (Ally)",
       "Shimmering -Bloodfiend- (Ally)",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -6956,15 +6956,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
+            "finalPower": 11,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 7
-          }
-        ]
+            "finalPower": 7,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -6973,15 +6973,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -6990,17 +6990,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
-      }
-    ]
+            "finalPower": 10,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 124,
@@ -7010,7 +7010,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Full-Stop Office"
+      "Full-Stop Office",
     ],
     "statusKeywords": [
       "Ammo",
@@ -7020,12 +7020,12 @@ export var IDs = [
       "Poise",
       "Reload",
       "Target Spotted",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Walpurgis Night V",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -7035,15 +7035,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 12
+            "finalPower": 12,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 13
-          }
-        ]
+            "finalPower": 13,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7052,15 +7052,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7069,17 +7069,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 19
+            "finalPower": 19,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 19
-          }
-        ]
-      }
-    ]
+            "finalPower": 19,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 125,
@@ -7089,7 +7089,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Full-Stop Office"
+      "Full-Stop Office",
     ],
     "statusKeywords": [
       "Ammo",
@@ -7101,12 +7101,12 @@ export var IDs = [
       "Pierce Fragility",
       "Pierce Resist Down",
       "Poise",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Walpurgis Night V",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -7116,9 +7116,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7127,9 +7127,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 22
-          }
-        ]
+            "finalPower": 22,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7138,17 +7138,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 26
+            "finalPower": 26,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 33
-          }
-        ]
-      }
-    ]
+            "finalPower": 33,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 126,
@@ -7159,19 +7159,19 @@ export var IDs = [
     "preciseKeywords": [
       "Limbus Company",
       "LCE",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Aggro",
       "Bind",
       "Fairy Lure",
       "Rupture",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7181,9 +7181,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7192,9 +7192,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7203,11 +7203,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 127,
@@ -7218,16 +7218,16 @@ export var IDs = [
     "preciseKeywords": [
       "Limbus Company",
       "LCE",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Burn",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -7237,9 +7237,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7248,9 +7248,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7259,17 +7259,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 9
-          }
-        ]
-      }
-    ]
+            "finalPower": 9,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 128,
@@ -7279,18 +7279,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "N Corp.",
-      "N Corp. Fanatic"
+      "N Corp. Fanatic",
     ],
     "statusKeywords": [
       "Bleed",
       "Blunt Power Up",
       "Burn",
-      "Fanatic"
+      "Fanatic",
     ],
     "season": "Season 1 - Orientation",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7300,9 +7300,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 8
-          }
-        ]
+            "finalPower": 8,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7311,9 +7311,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7322,11 +7322,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 30
-          }
-        ]
-      }
-    ]
+            "finalPower": 30,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 129,
@@ -7336,7 +7336,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Kurokumo Clan"
+      "Kurokumo Clan",
     ],
     "statusKeywords": [
       "Bleed",
@@ -7346,12 +7346,12 @@ export var IDs = [
       "Offense Level Down",
       "Protection",
       "Slash Fragility",
-      "Slash Power Up"
+      "Slash Power Up",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -7361,9 +7361,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7372,9 +7372,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7383,11 +7383,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 130,
@@ -7397,7 +7397,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Kurokumo Clan"
+      "Kurokumo Clan",
     ],
     "statusKeywords": [
       "Attack Power Down",
@@ -7408,12 +7408,12 @@ export var IDs = [
       "Defense Power Up",
       "Offense Level Down",
       "Slash Fragility",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -7423,9 +7423,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7434,9 +7434,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7445,11 +7445,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 131,
@@ -7459,15 +7459,15 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Liu Association"
+      "Liu Association",
     ],
     "statusKeywords": [
-      "Burn"
+      "Burn",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7477,9 +7477,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7488,9 +7488,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7499,11 +7499,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 132,
@@ -7512,18 +7512,18 @@ export var IDs = [
     "sinner": "Gregor",
     "rarity": 2,
     "preciseKeywords": [
-      "Fixer"
+      "Fixer",
     ],
     "statusKeywords": [
       "Blunt DMG Up",
       "Burn",
       "District 12 Fuel",
-      "Overheated Fuel"
+      "Overheated Fuel",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -7533,9 +7533,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7544,9 +7544,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7555,11 +7555,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 133,
@@ -7569,18 +7569,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Cinq Association"
+      "Cinq Association",
     ],
     "statusKeywords": [
       "Burn",
       "Defense Level Down",
       "Nerve Strike - Don Quixote",
-      "Poise"
+      "Poise",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7590,9 +7590,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7601,9 +7601,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7612,11 +7612,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 134,
@@ -7627,18 +7627,18 @@ export var IDs = [
     "preciseKeywords": [
       "H Corp.",
       "Heishou Pack",
-      "Heishou Pack - Mao Branch"
+      "Heishou Pack - Mao Branch",
     ],
     "statusKeywords": [
       "Deathrite -Haste-",
       "Haste",
       "Rupture",
-      "Strider -Mao-"
+      "Strider -Mao-",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7648,9 +7648,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7659,9 +7659,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7670,11 +7670,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 135,
@@ -7685,18 +7685,18 @@ export var IDs = [
     "preciseKeywords": [
       "H Corp.",
       "Heishou Pack",
-      "Heishou Pack - Mao Branch"
+      "Heishou Pack - Mao Branch",
     ],
     "statusKeywords": [
       "Deathrite -Haste-",
       "Haste",
       "Rupture",
-      "Strider -Mao-"
+      "Strider -Mao-",
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7706,9 +7706,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7717,9 +7717,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7728,11 +7728,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 136,
@@ -7742,17 +7742,17 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "The Middle"
+      "The Middle",
     ],
     "statusKeywords": [
       "Aggro",
       "Bleed",
-      "Book of Vengeance -Sinclair-"
+      "Book of Vengeance -Sinclair-",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7762,9 +7762,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7773,9 +7773,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7784,11 +7784,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 137,
@@ -7797,17 +7797,17 @@ export var IDs = [
     "sinner": "Hong Lu",
     "rarity": 2,
     "preciseKeywords": [
-      "R Corp."
+      "R Corp.",
     ],
     "statusKeywords": [
       "Charge",
       "Sinking",
-      "Unfocused Volley"
+      "Unfocused Volley",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7817,9 +7817,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7828,9 +7828,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 4,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7839,11 +7839,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 138,
@@ -7854,7 +7854,7 @@ export var IDs = [
     "preciseKeywords": [
       "H Corp.",
       "Heishou Pack",
-      "Heishou Pack - Si Branch"
+      "Heishou Pack - Si Branch",
     ],
     "statusKeywords": [
       "Clashable Guard",
@@ -7863,12 +7863,12 @@ export var IDs = [
       "Rupture",
       "Serpent Arm",
       "Unbreakable Coin",
-      "Unfocused Volley"
+      "Unfocused Volley",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7878,9 +7878,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7889,9 +7889,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7900,11 +7900,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 139,
@@ -7915,7 +7915,7 @@ export var IDs = [
     "preciseKeywords": [
       "H Corp.",
       "Heishou Pack",
-      "Heishou Pack - Si Branch"
+      "Heishou Pack - Si Branch",
     ],
     "statusKeywords": [
       "Clashable Guard",
@@ -7923,12 +7923,12 @@ export var IDs = [
       "Poise",
       "Rupture",
       "Serpent Arm",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -7938,9 +7938,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -7949,9 +7949,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -7960,11 +7960,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 22
-          }
-        ]
-      }
-    ]
+            "finalPower": 22,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 140,
@@ -7976,7 +7976,7 @@ export var IDs = [
       "H Corp.",
       "Heishou Pack",
       "Heishou Pack Adept",
-      "Heishou Pack - Mao Branch"
+      "Heishou Pack - Mao Branch",
     ],
     "statusKeywords": [
       "Assist Defense",
@@ -7989,12 +7989,12 @@ export var IDs = [
       "Rupture",
       "Strider -Mao-",
       "Tianjiu Star's Blade",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8004,9 +8004,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8015,9 +8015,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8026,17 +8026,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 141,
@@ -8047,7 +8047,7 @@ export var IDs = [
     "preciseKeywords": [
       "H Corp.",
       "Family Hierarch Candidate",
-      "Jia Family"
+      "Jia Family",
     ],
     "statusKeywords": [
       "Battlefield Retreat",
@@ -8057,12 +8057,12 @@ export var IDs = [
       "Poise",
       "Ready -待-",
       "Rupture",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8072,15 +8072,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 11
+            "finalPower": 11,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 6
-          }
-        ]
+            "finalPower": 6,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8089,9 +8089,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 4,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8100,11 +8100,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 22
-          }
-        ]
-      }
-    ]
+            "finalPower": 22,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 142,
@@ -8115,7 +8115,7 @@ export var IDs = [
     "preciseKeywords": [
       "The Thumb",
       "Syndicate",
-      "Soldato|name=Soldato II"
+      "Soldato|name=Soldato II",
     ],
     "statusKeywords": [
       " Unbreakable Coin",
@@ -8124,12 +8124,12 @@ export var IDs = [
       "Scorch Propellant Ammo",
       "Tremor",
       "Tremor - Scorch",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8139,9 +8139,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8150,9 +8150,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8161,11 +8161,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 143,
@@ -8176,7 +8176,7 @@ export var IDs = [
     "preciseKeywords": [
       "The Thumb",
       "Syndicate",
-      "Capo|name=Capo IIII"
+      "Capo|name=Capo IIII",
     ],
     "statusKeywords": [
       "Amplitude Conversion",
@@ -8185,12 +8185,12 @@ export var IDs = [
       "Tigermark Round",
       "Tremor",
       "Tremor - Scorch",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8200,9 +8200,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8211,9 +8211,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8222,17 +8222,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Wrath",
             "coinCount": 5,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 144,
@@ -8242,18 +8242,18 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "N Corp.",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Bleed",
       "Poise",
       "Torn Memory",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8263,9 +8263,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8274,9 +8274,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8285,11 +8285,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 145,
@@ -8299,7 +8299,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Lobotomy Corp. Headquarters",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Clashable Guard",
@@ -8309,12 +8309,12 @@ export var IDs = [
       "Mark of Villainy",
       "Rupture",
       "Sinking",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Walpurgis Night VI",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8324,15 +8324,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 11
+            "finalPower": 11,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8341,15 +8341,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8358,17 +8358,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 20
-          }
-        ]
-      }
-    ]
+            "finalPower": 20,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 146,
@@ -8378,7 +8378,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Lobotomy Corp. Headquarters",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Clashable Guard",
@@ -8387,12 +8387,12 @@ export var IDs = [
       "Protecting Sword",
       "Sinking",
       "Tear-sharpened",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Walpurgis Night VI",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8402,15 +8402,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 12
+            "finalPower": 12,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8419,15 +8419,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8436,17 +8436,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 20
-          }
-        ]
-      }
-    ]
+            "finalPower": 20,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 147,
@@ -8455,7 +8455,7 @@ export var IDs = [
     "sinner": "Outis",
     "rarity": 2,
     "preciseKeywords": [
-      "T Corp."
+      "T Corp.",
     ],
     "statusKeywords": [
       "Amplitude Conversion",
@@ -8468,12 +8468,12 @@ export var IDs = [
       "Tremor - Chain",
       "Tremor Burst",
       "Unbreakable Coin",
-      "Violent Collections"
+      "Violent Collections",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 0
+      "support": 0,
     },
     "skills": [
       {
@@ -8483,9 +8483,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8494,9 +8494,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
+            "finalPower": 18,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8505,11 +8505,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 148,
@@ -8519,7 +8519,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Jia Family|strike",
-      "H Corp."
+      "H Corp.",
     ],
     "statusKeywords": [
       "Assist Defense",
@@ -8539,12 +8539,12 @@ export var IDs = [
       "Slash Resist Down",
       "Unbreakable Coin",
       "Unrelenting Storm",
-      "Your Will Guides My Blade."
+      "Your Will Guides My Blade.",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8554,9 +8554,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8565,9 +8565,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 4,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8576,23 +8576,23 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 22
+            "finalPower": 22,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 14
+            "finalPower": 14,
           },
           {
             "variationNumber": 3,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 149,
@@ -8605,7 +8605,7 @@ export var IDs = [
       "Jia Family",
       "Heishou Pack",
       "Heishou Pack Adept",
-      "Heishou Pack - Wu Branch"
+      "Heishou Pack - Wu Branch",
     ],
     "statusKeywords": [
       "Bind",
@@ -8618,12 +8618,12 @@ export var IDs = [
       "Strider -Wu-",
       "Tremor",
       "Tremor Burst",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8633,9 +8633,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8644,9 +8644,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 14
-          }
-        ]
+            "finalPower": 14,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8655,17 +8655,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Gluttony",
             "coinCount": 1,
-            "finalPower": 8
-          }
-        ]
-      }
-    ]
+            "finalPower": 8,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 150,
@@ -8676,19 +8676,19 @@ export var IDs = [
     "preciseKeywords": [
       "H Corp.",
       "Heishou Pack",
-      "Heishou Pack - You Branch"
+      "Heishou Pack - You Branch",
     ],
     "statusKeywords": [
       "Bloodflame -血炎-",
       "Burn",
       "Rupture",
       "Unbreakable Coin",
-      "Unfocused Volley"
+      "Unfocused Volley",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8698,9 +8698,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8709,9 +8709,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8720,11 +8720,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 151,
@@ -8734,7 +8734,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "N Corp.",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Amplitude Conversion",
@@ -8747,12 +8747,12 @@ export var IDs = [
       "Tremor",
       "Tremor - Hemorrhage",
       "Tremor Burst",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8762,9 +8762,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8773,9 +8773,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8784,15 +8784,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 9
+            "finalPower": 9,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 28
-          }
-        ]
+            "finalPower": 28,
+          },
+        ],
       },
       {
         "skillNumber": 4,
@@ -8801,11 +8801,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
-      }
-    ]
+            "finalPower": 11,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 152,
@@ -8815,7 +8815,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Fixer",
-      "Shi Association"
+      "Shi Association",
     ],
     "statusKeywords": [
       "Arrow - Shi",
@@ -8825,12 +8825,12 @@ export var IDs = [
       "Lodged Arrow",
       "Poise",
       "Ready to Loose",
-      "Target Aim"
+      "Target Aim",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8840,9 +8840,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8851,9 +8851,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8862,17 +8862,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 4,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 8
-          }
-        ]
-      }
-    ]
+            "finalPower": 8,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 153,
@@ -8883,7 +8883,7 @@ export var IDs = [
     "preciseKeywords": [
       "La Manchaland",
       "Bloodfiend",
-      "Third Kindred"
+      "Third Kindred",
     ],
     "statusKeywords": [
       "Bleed",
@@ -8893,12 +8893,12 @@ export var IDs = [
       "La Mancha Parade",
       "Lust Fragility",
       "Rupture",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8908,9 +8908,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8919,9 +8919,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8930,17 +8930,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 7
+            "finalPower": 7,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Lust",
             "coinCount": 1,
-            "finalPower": 7
-          }
-        ]
-      }
-    ]
+            "finalPower": 7,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 154,
@@ -8949,7 +8949,7 @@ export var IDs = [
     "sinner": "Heathcliff",
     "rarity": 2,
     "preciseKeywords": [
-      "W Corp."
+      "W Corp.",
     ],
     "statusKeywords": [
       "Charge",
@@ -8957,12 +8957,12 @@ export var IDs = [
       "Clashable Guard",
       "Overcharge",
       "Rupture",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -8972,9 +8972,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -8983,9 +8983,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 17
-          }
-        ]
+            "finalPower": 17,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -8994,11 +8994,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 4,
-            "finalPower": 11
-          }
-        ]
-      }
-    ]
+            "finalPower": 11,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 155,
@@ -9009,7 +9009,7 @@ export var IDs = [
     "preciseKeywords": [
       "Fixer",
       "Associate Office - Öufi",
-      "Jeong's Office"
+      "Jeong's Office",
     ],
     "statusKeywords": [
       "Amplitude Conversion",
@@ -9021,12 +9021,12 @@ export var IDs = [
       "Sinking",
       "Tremor",
       "Tremor - Decay",
-      "Tremor Burst"
+      "Tremor Burst",
     ],
     "season": "Walpurgis Night VII",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9036,9 +9036,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9047,9 +9047,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9058,17 +9058,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Envy",
             "coinCount": 1,
-            "finalPower": 9
-          }
-        ]
-      }
-    ]
+            "finalPower": 9,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 156,
@@ -9078,7 +9078,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Syndicate",
-      "Night Awls"
+      "Night Awls",
     ],
     "statusKeywords": [
       "Amplitude Conversion",
@@ -9093,12 +9093,12 @@ export var IDs = [
       "Tremor",
       "Tremor - Hemorrhage",
       "Tremor Burst",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Walpurgis Night VII",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9108,15 +9108,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
+            "finalPower": 11,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Sloth",
             "coinCount": 1,
-            "finalPower": 10
-          }
-        ]
+            "finalPower": 10,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9125,9 +9125,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9136,17 +9136,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 4,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Pride",
             "coinCount": 1,
-            "finalPower": 7
-          }
-        ]
-      }
-    ]
+            "finalPower": 7,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 157,
@@ -9158,7 +9158,7 @@ export var IDs = [
       "H Corp.",
       "Heishou Pack",
       "Heishou Pack Adept",
-      "Heishou Pack - You Branch"
+      "Heishou Pack - You Branch",
     ],
     "statusKeywords": [
       "Burn",
@@ -9171,12 +9171,12 @@ export var IDs = [
       "Heishou Bolus Contamination [黑獸丸染]",
       "Offense Level Up",
       "Defense Level Up",
-      "Clash Power Up"
+      "Clash Power Up",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 3,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9186,9 +9186,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9197,9 +9197,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9208,17 +9208,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 158,
@@ -9230,7 +9230,7 @@ export var IDs = [
       "H Corp.",
       "Heishou Pack",
       "Heishou Pack",
-      "Heishou Pack - Wei Branch"
+      "Heishou Pack - Wei Branch",
     ],
     "statusKeywords": [
       "Sinking",
@@ -9241,12 +9241,12 @@ export var IDs = [
       "Exalted Command",
       "Heishou Bolus Contamination [黑獸丸染]",
       "Clashable Guard",
-      "Defense Level Down"
+      "Defense Level Down",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9256,9 +9256,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9267,9 +9267,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9278,11 +9278,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 159,
@@ -9291,19 +9291,19 @@ export var IDs = [
     "sinner": "Ryoshu",
     "rarity": 2,
     "preciseKeywords": [
-      "H Corp."
+      "H Corp.",
     ],
     "statusKeywords": [
       "Poise",
       "Rupture",
       "Protector's Stance",
       "Clashable Guard",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 6 - Zàng Huā Yín",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9313,9 +9313,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9324,9 +9324,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9335,11 +9335,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 160,
@@ -9348,18 +9348,18 @@ export var IDs = [
     "sinner": "Rodion",
     "rarity": 2,
     "preciseKeywords": [
-      "R Corp."
+      "R Corp.",
     ],
     "statusKeywords": [
       "Charge",
       "Sinking",
       "Blunt Fragility",
-      "Unfocused Volley"
+      "Unfocused Volley",
     ],
     "season": "Standard Fare",
     "passiveCount": {
       "combat": 1,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9369,9 +9369,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9380,9 +9380,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9391,11 +9391,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 161,
@@ -9405,7 +9405,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "The Fingers",
-      "The Index"
+      "The Index",
     ],
     "statusKeywords": [
       "Poise",
@@ -9415,12 +9415,12 @@ export var IDs = [
       "Grace of the Prescript",
       "Prescript",
       "Karmic Consequence",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 7 - Kumo no ito • oti on akA",
     "passiveCount": {
       "combat": 3,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9430,9 +9430,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9441,9 +9441,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9452,11 +9452,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 162,
@@ -9466,7 +9466,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Limbus Company",
-      "LCA"
+      "LCA",
     ],
     "statusKeywords": [
       "Tremor",
@@ -9478,12 +9478,12 @@ export var IDs = [
       "LCA Fracture Round",
       "Reload",
       "Tremor Burst",
-      "Gloom Fragility"
+      "Gloom Fragility",
     ],
     "season": "Season 7 - Kumo no ito • oti on akA",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9493,9 +9493,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9504,9 +9504,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9515,11 +9515,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 18
-          }
-        ]
-      }
-    ]
+            "finalPower": 18,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 163,
@@ -9530,7 +9530,7 @@ export var IDs = [
     "preciseKeywords": [
       "The Fingers",
       "The House of Spiders",
-      "The Index"
+      "The Index",
     ],
     "statusKeywords": [
       "Mark of the Prescript",
@@ -9545,12 +9545,12 @@ export var IDs = [
       "Unbreakable Coin",
       "Shin (心) - Procuration",
       "Faith Beyond Question",
-      "Damage Up"
+      "Damage Up",
     ],
     "season": "Season 7 - Kumo no ito • oti on akA",
     "passiveCount": {
       "combat": 4,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9560,15 +9560,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }, 
+            "finalPower": 11,
+          },
           {
             "variationNumber": 2,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9577,15 +9577,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
+            "finalPower": 17,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9594,17 +9594,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 18
+            "finalPower": 18,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 164,
@@ -9615,7 +9615,7 @@ export var IDs = [
     "preciseKeywords": [
       "The Fingers",
       "The House of Spiders",
-      "The Middle"
+      "The Middle",
     ],
     "statusKeywords": [
       "Burn",
@@ -9627,12 +9627,12 @@ export var IDs = [
       "Bind",
       "The Middle - Grudge",
       "Blunt DMG Up",
-      "Vengeance Mark"
+      "Vengeance Mark",
     ],
     "season": "Season 7 - Kumo no ito • oti on akA",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9642,9 +9642,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9653,9 +9653,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9664,11 +9664,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 4,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 165,
@@ -9677,7 +9677,7 @@ export var IDs = [
     "sinner": "Sinclair",
     "rarity": 2,
     "preciseKeywords": [
-      "The House of Spiders"
+      "The House of Spiders",
     ],
     "statusKeywords": [
       "Poise",
@@ -9685,12 +9685,12 @@ export var IDs = [
       "Haste",
       "Unfocused Volley",
       "Moonlit Azure Blade",
-      "Unbreakable Coin"
+      "Unbreakable Coin",
     ],
     "season": "Season 7 - Kumo no ito • oti on akA",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9700,9 +9700,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9711,9 +9711,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 2,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9722,11 +9722,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 1,
-            "finalPower": 22
-          }
-        ]
-      }
-    ]
+            "finalPower": 22,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 166,
@@ -9737,7 +9737,7 @@ export var IDs = [
     "preciseKeywords": [
       "E.G.O Gear",
       "Limbus Company",
-      "LCE"
+      "LCE",
     ],
     "statusKeywords": [
       "Dazzle",
@@ -9754,12 +9754,12 @@ export var IDs = [
       "Pierce DMG Up",
       "Guardians of the Forest",
       "Aggro",
-      "Blunt DMG Up"
+      "Blunt DMG Up",
     ],
     "season": "Season 7 - Kumo no ito • oti on akA",
     "passiveCount": {
       "combat": 3,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9769,9 +9769,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9780,9 +9780,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 15
-          }
-        ]
+            "finalPower": 15,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9791,11 +9791,11 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 17
-          }
-        ]
-      }
-    ]
+            "finalPower": 17,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 167,
@@ -9804,7 +9804,7 @@ export var IDs = [
     "sinner": "Yi Sang",
     "rarity": 2,
     "preciseKeywords": [
-      "The Fingers","The House of Spiders","The Index","The Oracle's Proxy"
+      "The Fingers","The House of Spiders","The Index","The Oracle's Proxy",
     ],
     "statusKeywords": [
       "Karmic Consequence",
@@ -9818,12 +9818,12 @@ export var IDs = [
       "Paralyze",
       "Burn",
       "Bind",
-      "Fragile"
+      "Fragile",
     ],
     "season": "Season 7 - Kumo no ito • oti on akA",
     "passiveCount": {
       "combat": 5,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9833,9 +9833,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gluttony",
             "coinCount": 2,
-            "finalPower": 11
-          }
-        ]
+            "finalPower": 11,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9844,9 +9844,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Pride",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9855,17 +9855,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 4,
-            "finalPower": 16
+            "finalPower": 16,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Wrath",
             "coinCount": 9,
-            "finalPower": 30
-          }
-        ]
-      }
-    ]
+            "finalPower": 30,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 168,
@@ -9875,7 +9875,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Lobotomy Corp. Headquarters",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Tremor",
@@ -9885,12 +9885,12 @@ export var IDs = [
       "Solitude",
       "Tremor Burst",
       "Faint Aroma",
-      "Petals"
+      "Petals",
     ],
     "season": "Walpurgisnacht - VIII",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9900,15 +9900,15 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Sloth",
             "coinCount": 2,
-            "finalPower": 12
+            "finalPower": 12,
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Sloth",
             "coinCount": 3,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9917,9 +9917,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Envy",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9928,17 +9928,17 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 3,
-            "finalPower": 17
+            "finalPower": 17,
           },
           {
             "variationNumber": 1,
             "sinAffinity": "Gloom",
             "coinCount": 1,
-            "finalPower": 20
-          }
-        ]
-      }
-    ]
+            "finalPower": 20,
+          },
+        ],
+      },
+    ],
   },
   {
     "id": 169,
@@ -9948,7 +9948,7 @@ export var IDs = [
     "rarity": 2,
     "preciseKeywords": [
       "Lobotomy Corp. Headquarters",
-      "E.G.O Gear"
+      "E.G.O Gear",
     ],
     "statusKeywords": [
       "Spore",
@@ -9959,12 +9959,12 @@ export var IDs = [
       "Loyalty Pheromone",
       "Unbreakable Coin",
       "Reload [Germination]",
-      "Spore Round [Buckshot]"
+      "Spore Round [Buckshot]",
     ],
     "season": "Walpurgisnacht - VIII",
     "passiveCount": {
       "combat": 2,
-      "support": 1
+      "support": 1,
     },
     "skills": [
       {
@@ -9974,9 +9974,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Lust",
             "coinCount": 2,
-            "finalPower": 12
-          }
-        ]
+            "finalPower": 12,
+          },
+        ],
       },
       {
         "skillNumber": 2,
@@ -9985,9 +9985,9 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
+            "finalPower": 16,
+          },
+        ],
       },
       {
         "skillNumber": 3,
@@ -9996,10 +9996,10 @@ export var IDs = [
             "variationNumber": 1,
             "sinAffinity": "Wrath",
             "coinCount": 3,
-            "finalPower": 16
-          }
-        ]
-      }
-    ]
-  }
-]
+            "finalPower": 16,
+          },
+        ],
+      },
+    ],
+  },
+];

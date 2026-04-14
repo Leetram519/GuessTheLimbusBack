@@ -7264,8 +7264,8 @@ export var IDs = [
           {
             "variationNumber": 2,
             "sinAffinity": "Wrath",
-            "coinCount": 1,
-            "finalPower": 9
+            "coinCount": 3,
+            "finalPower": 17
           }
         ]
       }

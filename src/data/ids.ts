@@ -1,4 +1,4 @@
-export var IDs = [
+export const IDs = [
   {
     "id": 1,
     "name": "Liu Assoc. South Section 6 Gregor",
@@ -6938,14 +6938,14 @@ export var IDs = [
       "Bleed",
       "Bloodfeast",
       "Bloodfeast Consumed",
-      "Bloodfeast Consumed (shared)",
-      "Hardblood (Ally)",
-      "Shimmering -Bloodfiend- (Ally)",
-      "Unbreakable Coin"
+      "Hardblood",
+      "Shimmering -Bloodfiend-",
+      "Unbreakable Coin",
+      "Damage Up"
     ],
     "season": "Season 5 - Oblivion",
     "passiveCount": {
-      "combat": 2,
+      "combat": 4,
       "support": 1
     },
     "skills": [
@@ -6961,8 +6961,8 @@ export var IDs = [
           {
             "variationNumber": 2,
             "sinAffinity": "Sloth",
-            "coinCount": 1,
-            "finalPower": 7
+            "coinCount": 3,
+            "finalPower": 13
           }
         ]
       },
@@ -6978,8 +6978,8 @@ export var IDs = [
           {
             "variationNumber": 2,
             "sinAffinity": "Wrath",
-            "coinCount": 2,
-            "finalPower": 10
+            "coinCount": 3,
+            "finalPower": 13
           }
         ]
       },
@@ -6995,8 +6995,8 @@ export var IDs = [
           {
             "variationNumber": 2,
             "sinAffinity": "Lust",
-            "coinCount": 1,
-            "finalPower": 10
+            "coinCount": 4,
+            "finalPower": 25
           }
         ]
       }
@@ -9931,7 +9931,7 @@ export var IDs = [
             "finalPower": 17
           },
           {
-            "variationNumber": 1,
+            "variationNumber": 2,
             "sinAffinity": "Gloom",
             "coinCount": 1,
             "finalPower": 20
@@ -10001,5 +10001,396 @@ export var IDs = [
         ]
       }
     ]
-  }
+  },
+  {
+    "id": 170,
+    "name": "LCE E.G.O::AEDD Gregor",
+    "imagePath": "IDArt/Gregor/LCE EGO AEDD.png",
+    "sinner": "Gregor",
+    "rarity": 2,
+    "preciseKeywords": [
+      "E.G.O Gear",
+      "Limbus Company",
+      "LCE"
+    ],
+    "statusKeywords": [
+      "Charge",
+      "Rupture",
+      "Unbreakable Coin",
+      "Photoelectricity",
+      "High-voltage Exoskeleton",
+      "Charged Sting",
+      "Aggro",
+      "Charge Barrier",
+      "Self-charge",
+      "Offense Level Up"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 3,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 4,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 3,
+            "finalPower": 17
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Envy",
+            "coinCount": 3,
+            "finalPower": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "The House of Spiders: The Ring Apprentice Faust",
+    "imagePath": "IDArt/Faust/Ring Apprentice Faust.png",
+    "sinner": "Faust",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The House of Spiders",
+      "The Ring",
+      "School of Corporism",
+      "Mechanical Amalgam"
+    ],
+    "statusKeywords": [
+      "Iron Maiden",
+      "Bleed",
+      "Defense Level Down",
+      "Defense Level Up",
+      "The Self Unbound - Flow State",
+      "Corpus Ingredient",
+      "Unbreakable Coin",
+      "Bind",
+      "Haste",
+      "Damage Down",
+      "Slash DMG Up",
+      "Clashable Guard",
+      "Assist Defense",
+      "Clashable Counter",
+      "Artwork: Fascia",
+      "Charge",
+      "Somatic Frisson-inspiring Melody"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 3,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 2,
+            "finalPower": 11
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Gluttony",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 4,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Envy",
+            "coinCount": 4,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 4,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Lust",
+            "coinCount": 4,
+            "finalPower": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "The House of Spiders: The Ring Nursefather Hong Lu",
+    "imagePath": "IDArt/Hong Lu/Ring Nursefather Hong Lu.png",
+    "sinner": "Hong Lu",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The House of Spiders",
+      "The Ring",
+      "School of Corporism",
+      "Mechanical Amalgam",
+      "Maestro"
+    ],
+    "statusKeywords": [
+      "Bleed",
+      "Defense Level Down",
+      "Defense Level Up",
+      "Offense Level Up",
+      "Corpus Ingredient",
+      "Unbreakable Coin",
+      "Bind",
+      "Haste",
+      "Corpus Theater",
+      "Damage Down",
+      "Slash DMG Up",
+      "Somatic Frisson-Inspiring Melody",
+      "Burn",
+      "Assist Defense",
+      "Artwork: Tibia",
+      "Charge",
+      "Viewing The Tableau",
+      "Offense Level Down"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 3,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 2,
+            "finalPower": 11
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Pride",
+            "coinCount": 1,
+            "finalPower": 8
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 3,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Envy",
+            "coinCount": 2,
+            "finalPower": 13
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 4,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Lust",
+            "coinCount": 5,
+            "finalPower": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "The Ring Fauvist Student Meursault",
+    "imagePath": "IDArt/Meursault/Fauvist Meursault.png",
+    "sinner": "Meursault",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The Ring",
+      "School of Fauvism",
+      "Student"
+    ],
+    "statusKeywords": [
+      "Bleed",
+      "Sinking",
+      "Mauled Color [Rouge]",
+      "Unbreakable Coin",
+      "Le Fauvisme - Masque de Chien",
+      "Imperfections Addressed",
+      "Blunt DMG Up",
+      "Defense Level Down"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 3,
+            "finalPower": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "The Ring Fauvist Docent Rodion",
+    "imagePath": "IDArt/Rodion/Fauvist Rodion.png",
+    "sinner": "Rodion",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The Ring",
+      "School of Fauvism",
+      "Docent"
+    ],
+    "statusKeywords": [
+      "Palette Vibrante",
+      "Bleed",
+      "Sinking",
+      "Mauled Color [Rouge]",
+      "Mauled Color [Bleu]",
+      "Touche Hardie",
+      "Unfocused Volley",
+      "Unbreakable Coin",
+      "Réflexion",
+      "L'Hommage",
+      "Offense Level Up",
+      "Defense Level Up",
+      "Le Fauvisme - Masque de Loup"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 1,
+            "finalPower": 13
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 2,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 4,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Lust",
+            "coinCount": 4,
+            "finalPower": 17
+          }
+        ]
+      }
+    ]
+  },
 ]

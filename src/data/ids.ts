@@ -7247,8 +7247,8 @@ export const IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Pride",
-            "coinCount": 2,
-            "finalPower": 12
+            "coinCount": 3,
+            "finalPower": 16
           }
         ]
       },
@@ -8660,8 +8660,8 @@ export const IDs = [
           {
             "variationNumber": 2,
             "sinAffinity": "Gluttony",
-            "coinCount": 1,
-            "finalPower": 8
+            "coinCount": 4,
+            "finalPower": 17
           }
         ]
       }
@@ -8772,8 +8772,8 @@ export const IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Wrath",
-            "coinCount": 1,
-            "finalPower": 10
+            "coinCount": 2,
+            "finalPower": 16
           }
         ]
       },
@@ -8783,8 +8783,8 @@ export const IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Lust",
-            "coinCount": 1,
-            "finalPower": 9
+            "coinCount": 3,
+            "finalPower": 17
           },
           {
             "variationNumber": 2,
@@ -8800,8 +8800,8 @@ export const IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Pride",
-            "coinCount": 1,
-            "finalPower": 11
+            "coinCount": 2,
+            "finalPower": 18
           }
         ]
       }
@@ -8929,14 +8929,14 @@ export const IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Lust",
-            "coinCount": 1,
-            "finalPower": 7
+            "coinCount": 4,
+            "finalPower": 16
           },
           {
             "variationNumber": 2,
             "sinAffinity": "Lust",
-            "coinCount": 1,
-            "finalPower": 7
+            "coinCount": 4,
+            "finalPower": 16
           }
         ]
       }
@@ -9141,8 +9141,8 @@ export const IDs = [
           {
             "variationNumber": 2,
             "sinAffinity": "Pride",
-            "coinCount": 1,
-            "finalPower": 7
+            "coinCount": 4,
+            "finalPower": 16
           }
         ]
       }
@@ -9995,7 +9995,7 @@ export const IDs = [
           {
             "variationNumber": 1,
             "sinAffinity": "Wrath",
-            "coinCount": 3,
+            "coinCount": 4,
             "finalPower": 16
           }
         ]

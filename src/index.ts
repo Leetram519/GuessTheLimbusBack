@@ -223,6 +223,36 @@ app.get("/api/daily-id", function (req: Express.Request, res: Express.Response) 
 	});
 });
 
+// Get a random target ID for endless mode.
+// Optional query param: excludeId=<number> to avoid immediately repeating the previous round.
+app.get("/api/random-id", function (req: Express.Request, res: Express.Response) {
+	console.log(`${new Date().toISOString()}: GET /api/random-id`);
+
+	if (!idsData.length) {
+		res.status(503).json({ error: "ID data is unavailable" });
+		return;
+	}
+
+	const rawExcludeId = req.query.excludeId;
+	const parsedExcludeId =
+		typeof rawExcludeId === "string" && rawExcludeId.trim() !== ""
+			? Number.parseInt(rawExcludeId, 10)
+			: null;
+
+	const excludeId = Number.isInteger(parsedExcludeId) ? parsedExcludeId : null;
+	const pool = excludeId === null ? idsData : idsData.filter(id => id.id !== excludeId);
+
+	if (!pool.length) {
+		res.status(503).json({ error: "No IDs available for random selection" });
+		return;
+	}
+
+	const targetIndex = Math.floor(Math.random() * pool.length);
+	const targetId = pool[targetIndex];
+
+	res.json({ id: targetId.id });
+});
+
 // Verify a guess
 app.post("/api/verify-guess", function (req: Express.Request, res: Express.Response) {
 	console.log(`${new Date().toISOString()}: POST /api/verify-guess`);

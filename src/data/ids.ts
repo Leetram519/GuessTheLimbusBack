@@ -10933,7 +10933,7 @@ export const IDs = [
             "finalPower": 11
           },
           {
-            "variationNumber": 1,
+            "variationNumber": 2,
             "sinAffinity": "Lust",
             "coinCount": 2,
             "finalPower": 12

@@ -8176,7 +8176,7 @@ export const IDs = [
     "preciseKeywords": [
       "The Thumb",
       "Syndicate",
-      "Capo|name=Capo IIII"
+      "Capo IIII"
     ],
     "statusKeywords": [
       "Amplitude Conversion",
@@ -10102,7 +10102,7 @@ export const IDs = [
       "Clashable Counter",
       "Artwork: Fascia",
       "Charge",
-      "Somatic Frisson-inspiring Melody"
+      "Somatic Frisson-Inspiring Melody"
     ],
     "season": "Season 7 - Kumo no ito • oti on akA",
     "passiveCount": {
@@ -10388,6 +10388,589 @@ export const IDs = [
             "sinAffinity": "Lust",
             "coinCount": 4,
             "finalPower": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "The Middle Big Brother Heathcliff",
+    "imagePath": "IDArt/Heathcliff/Ricardo Heathcliff.png",
+    "sinner": "Heathcliff",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The Middle"
+    ],
+    "statusKeywords": [
+      "Burn",
+      "Bleed",
+      "Vengeance Mark",
+      "Aggro",
+      "Offense Level Up",
+      "Paralyze",
+      "Book of Vengeance [Heathcliff]",
+      "Vengeance Tattoo",
+      "Unbreakable Coin",
+      "Tremor",
+      "Tremor Burst",
+      "Vendetta Mark",
+      "Defense Level Up",
+      "Attack Power Up"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 3,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 1,
+            "finalPower": 22
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Envy",
+            "coinCount": 1,
+            "finalPower": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Blade of the House of Spiders Ryōshū",
+    "imagePath": "IDArt/Ryoshu/Blade Ryoshu.png",
+    "sinner": "Ryoshu",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The House of Spiders",
+      "The Pinky",
+      "Dihui Star",
+      "Tiansha Star"
+    ],
+    "statusKeywords": [
+      "Poise",
+      "Burn",
+      "Bleed",
+      "Bladetrail [Afterimage]",
+      "Entanglement",
+      "Entangled Life [羅生]",
+      "Phantom Trace",
+      "Slash Fragility",
+      "String Severance [絕緣]",
+      "Dihui Star's Blade",
+      "Shin (心) - Dihui Star [地慧星]",
+      "Unbreakable Coin",
+      "Somatic Frisson-Inspiring Melody",
+      "Crit DMG Up",
+      "Sinking"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 4,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 3,
+            "finalPower": 12
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Wrath",
+            "coinCount": 1,
+            "finalPower": 18
+          },
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 3,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Pride",
+            "coinCount": 1,
+            "finalPower": 14
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 1,
+            "finalPower": 22
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Wrath",
+            "coinCount": 2,
+            "finalPower": 18
+          },
+          {
+            "variationNumber": 3,
+            "sinAffinity": "Wrath",
+            "coinCount": 2,
+            "finalPower": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "The House of Spiders: The Middle Nursefather Outis",
+    "imagePath": "IDArt/Outis/Middle Outis.png",
+    "sinner": "Outis",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The House of Spiders",
+      "The Middle",
+      "Great Sister"
+    ],
+    "statusKeywords": [
+      "Burn",
+      "Bleed",
+      "Lævateinn",
+      "The Middle - Vengeance Tattoo [Great Sister]",
+      "Unbreakable Coin",
+      "Bind",
+      "Paralyze",
+      "First Seal Removed",
+      "Second Seal Removed",
+      "Aggro",
+      "The Middle - Grudge",
+      "Blunt DMG Up",
+      "Envy Fragility",
+      "Sealed Sword",
+      "Rising Fever",
+      "Ridiculous Grit",
+      "Check This Out, Kiddo!",
+      "I Got Praised!",
+      "Entanglement",
+      "Offense Level Up",
+      "Avenging My Family",
+      "Envy DMG Up",
+      "Vengeance Mark",
+      "Book of Vengeance [The House of Spiders]",
+      "Damage Up",
+      "Protection"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 6,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 11
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Envy",
+            "coinCount": 2,
+            "finalPower": 11
+          },
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 3,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Envy",
+            "coinCount": 5,
+            "finalPower": 18
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Envy",
+            "coinCount": 4,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Envy",
+            "coinCount": 5,
+            "finalPower": 19
+          },
+          {
+            "variationNumber": 3,
+            "sinAffinity": "Envy",
+            "coinCount": 4,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 4,
+            "sinAffinity": "Envy",
+            "coinCount": 1,
+            "finalPower": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "S Corp. Ch'unokkun Hong Lu",
+    "imagePath": "IDArt/Hong Lu/S Corp Hong Lu.png",
+    "sinner": "Hong Lu",
+    "rarity": 2,
+    "preciseKeywords": [
+      "Fixer",
+      "S Corp."
+    ],
+    "statusKeywords": [
+      "Poise",
+      "Bleed",
+      "Trussed [Hong Lu]",
+      "Bind",
+      "Avulsion Wound",
+      "Unbreakable Coin",
+      "Attack Power Down",
+      "Pride Fragility",
+      "Prisoner Transport Arrangements"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 2,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gluttony",
+            "coinCount": 3,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 4,
+            "finalPower": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "LCD OSIR Team Ishmael",
+    "imagePath": "IDArt/Ishmael/LCD OSIR Ishmael.png",
+    "sinner": "Ishmael",
+    "rarity": 2,
+    "preciseKeywords": [
+      "Limbus Company",
+      "LCD",
+      "Blade Lineage",
+      "Syndicate"
+    ],
+    "statusKeywords": [
+      "Poise",
+      "Bleed",
+      "Haste",
+      "Mook Workshop - Ye [銳] Type II Bladedraw / Thrust Force: Dokkaebi Fire",
+      "Dokkaebi Arms",
+      "Slash Fragility",
+      "Paralyze",
+      "Unbreakable Coin",
+      "Assist Defense",
+      "Bearing of a Salsu",
+      "Swordplay of the Homeland"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 3,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 3,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Gloom",
+            "coinCount": 3,
+            "finalPower": 15
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Pride",
+            "coinCount": 2,
+            "finalPower": 13
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 3,
+            "finalPower": 17
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Wrath",
+            "coinCount": 4,
+            "finalPower": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "The House of Spiders: The Thumb Apprentice Heathcliff",
+    "imagePath": "IDArt/Heathcliff/Thumb Heathcliff.png",
+    "sinner": "Heathcliff",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Fingers",
+      "The House of Spiders",
+      "The Thumb"
+    ],
+    "statusKeywords": [
+      "Burn",
+      "Tremor",
+      "The Duel Escalates",
+      "Maturing Textbook",
+      "Unbreakable Coin",
+      "Tremor Burst",
+      "Amplitude Conversion",
+      "Eye of Precognition",
+      "Tremor - Scorch",
+      "Eye of Precognition - Overheat",
+      "Assist Defense",
+      "Entanglement",
+      "Severed Tendon"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 4,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 11
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Sloth",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 3,
+            "finalPower": 17
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Wrath",
+            "coinCount": 4,
+            "finalPower": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "The House of Spiders: The Thumb Nursefather Rodion",
+    "imagePath": "IDArt/Rodion/Thumb Rodion.png",
+    "sinner": "Rodion",
+    "rarity": 2,
+    "preciseKeywords": [
+      "The Thumb",
+      "The House of Spiders",
+      "Le Sette Famiglie",
+      "Sottocapo",
+      "The Fingers",
+      "Smoke War",
+      "War Hero"
+    ],
+    "statusKeywords": [
+      "Poise",
+      "Burn",
+      "Tremor",
+      "Eye of Precognition",
+      "Tremor Burst",
+      "Acceleration Round",
+      "Eye of Precognition - Overheat",
+      "Unbreakable Coin",
+      "Tremor - Scorch",
+      "Game Target",
+      "Reload",
+      "Shin (心) - Disgrace",
+      "Entanglement",
+      "Offense Level Up",
+      "Haste"
+    ],
+    "season": "Season 7 - Kumo no ito • oti on akA",
+    "passiveCount": {
+      "combat": 3,
+      "support": 1
+    },
+    "skills": [
+      {
+        "skillNumber": 1,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Pride",
+            "coinCount": 2,
+            "finalPower": 11
+          },
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Lust",
+            "coinCount": 2,
+            "finalPower": 12
+          }
+        ]
+      },
+      {
+        "skillNumber": 2,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Sloth",
+            "coinCount": 3,
+            "finalPower": 16
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Sloth",
+            "coinCount": 3,
+            "finalPower": 16
+          }
+        ]
+      },
+      {
+        "skillNumber": 3,
+        "variations": [
+          {
+            "variationNumber": 1,
+            "sinAffinity": "Wrath",
+            "coinCount": 4,
+            "finalPower": 17
+          },
+          {
+            "variationNumber": 2,
+            "sinAffinity": "Wrath",
+            "coinCount": 5,
+            "finalPower": 20
           }
         ]
       }
